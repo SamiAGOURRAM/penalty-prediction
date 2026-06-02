@@ -1,0 +1,103 @@
+{
+  "n_kicks": 320,
+  "n_shootouts": 35,
+  "note": "natural/center/nonnatural relative to kicker foot; frame-invariant.",
+  "OFFENCE_H8": {
+    "keeper_dive_dist": {
+      "natural": 0.494,
+      "center": 0.116,
+      "nonnatural": 0.391
+    },
+    "payoff_P_goal": {
+      "kick_natural": {
+        "dive_natural": 0.543,
+        "dive_center": 0.75,
+        "dive_nonnatural": 0.898
+      },
+      "kick_center": {
+        "dive_natural": 0.808,
+        "dive_center": 0.25,
+        "dive_nonnatural": 0.6
+      },
+      "kick_nonnatural": {
+        "dive_natural": 0.947,
+        "dive_center": 1.0,
+        "dive_nonnatural": 0.5
+      }
+    },
+    "EV_score_by_kick": {
+      "natural": 0.705,
+      "center": 0.662,
+      "nonnatural": 0.779
+    },
+    "optimal_kick": "nonnatural",
+    "always_natural_EV": 0.705,
+    "model_gain_optimal_vs_natural": {
+      "mean": 0.077,
+      "ci95": [
+        0.0,
+        0.179
+      ]
+    },
+    "model_gain_nonnatural_vs_natural": {
+      "mean": 0.075,
+      "ci95": [
+        -0.027,
+        0.179
+      ]
+    },
+    "realized_score_rate_by_kick": {
+      "natural": {
+        "rate": 0.671,
+        "n": 155
+      },
+      "center": {
+        "rate": 0.641,
+        "n": 64
+      },
+      "nonnatural": {
+        "rate": 0.752,
+        "n": 101
+      }
+    },
+    "realized_nonnatural_minus_natural": {
+      "mean": 0.081,
+      "ci95": [
+        -0.045,
+        0.204
+      ]
+    }
+  },
+  "DEFENCE_demo": {
+    "population_corpus": {
+      "kicker_dist_natural_center_nonnatural": [
+        0.509,
+        0.142,
+        0.349
+      ],
+      "EV_save_by_dive": {
+        "natural": 0.278,
+        "center": 0.234,
+        "nonnatural": 0.283
+      },
+      "recommended_dive": "nonnatural",
+      "gain_vs_always_natural_pp": 0.5,
+      "gain_vs_random_pp": 1.8
+    },
+    "natural_specialist_70pct": {
+      "kicker_dist_natural_center_nonnatural": [
+        0.7,
+        0.1,
+        0.2
+      ],
+      "EV_save_by_dive": {
+        "natural": 0.35,
+        "center": 0.25,
+        "nonnatural": 0.211
+      },
+      "recommended_dive": "natural",
+      "gain_vs_always_natural_pp": 0.0,
+      "gain_vs_random_pp": 8.0
+    }
+  }
+}

@@ -1,0 +1,1033 @@
+match_id,competition,season,period,minute,is_shootout,shootout_kick_order,team,kicker,kicker_id,body_part,outcome,end_y,direction
+303532,La Liga,2019/2020,2,68,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,43.6,L
+303504,La Liga,2019/2020,1,37,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,42.4,L
+303664,La Liga,2019/2020,1,11,False,,Real Sociedad,Mikel Oyarzabal Ugarte,6685.0,Left Foot,Goal,38.8,C
+303400,La Liga,2019/2020,1,11,False,,Valencia,Maximiliano Gómez González,6297.0,Right Foot,Saved,42.8,L
+303479,La Liga,2019/2020,2,80,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,43.3,L
+303696,La Liga,2019/2020,1,18,False,,Atlético Madrid,Saúl Ñíguez Esclapez,6381.0,Left Foot,Goal,43.3,L
+303696,La Liga,2019/2020,2,49,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,37.6,R
+303696,La Liga,2019/2020,2,61,False,,Atlético Madrid,Saúl Ñíguez Esclapez,6381.0,Left Foot,Goal,43.3,L
+303487,La Liga,2019/2020,1,22,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,36.5,R
+303707,La Liga,2019/2020,1,5,False,,Real Betis,Sergio Canales Madrazo,6673.0,Left Foot,Goal,37.1,R
+303666,La Liga,2019/2020,2,65,False,,Granada,Álvaro Vadillo Cifuentes,24143.0,Right Foot,Goal,37.1,R
+303517,La Liga,2019/2020,2,74,False,,Barcelona,Luis Alberto Suárez Díaz,5246.0,Right Foot,Goal,37.9,R
+22912,Champions League,2018/2019,1,1,False,,Liverpool,Mohamed Salah,3531.0,Left Foot,Goal,42.5,L
+68313,La Liga,2004/2005,1,43,False,,Barcelona,Ronaldo de Assis Moreira,25879.0,Right Foot,Goal,36.5,R
+69329,La Liga,2011/2012,2,94,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Saved,43.3,L
+70219,La Liga,2011/2012,1,23,False,,Real Zaragoza,Ángel Lafita Castillo,26020.0,Right Foot,Saved,42.7,L
+70219,La Liga,2011/2012,2,85,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,38.8,C
+69322,La Liga,2011/2012,2,55,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,42.5,L
+70225,La Liga,2011/2012,2,61,False,,Granada,Guilherme Magdalena Siqueira,26780.0,Left Foot,Goal,38.0,R
+70225,La Liga,2011/2012,2,88,False,,Granada,Guilherme Magdalena Siqueira,26780.0,Left Foot,Goal,43.6,L
+69340,La Liga,2011/2012,1,34,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,38.7,C
+69340,La Liga,2011/2012,2,58,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,43.4,L
+69327,La Liga,2011/2012,2,85,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,38.0,R
+69320,La Liga,2011/2012,2,63,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,43.8,L
+69320,La Liga,2011/2012,2,78,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,43.4,L
+69314,La Liga,2011/2012,1,12,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,42.9,L
+70221,La Liga,2011/2012,1,22,False,,Levante UD,José Javier Barkero Saludes,26226.0,Left Foot,Goal,37.6,R
+70221,La Liga,2011/2012,2,71,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,42.2,L
+69323,La Liga,2011/2012,2,57,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,43.2,L
+3754117,Premier League,2015/2016,1,7,False,,Arsenal,Olivier Giroud,3604.0,Left Foot,Goal,42.9,L
+3754047,Premier League,2015/2016,2,61,False,,Liverpool,James Philip Milner,3473.0,Right Foot,Goal,39.9,C
+3754058,Premier League,2015/2016,2,58,False,,Leicester City,Riyad Mahrez,3814.0,Left Foot,Saved,43.0,L
+3754039,Premier League,2015/2016,1,15,False,,Watford,Troy Deeney,3454.0,Right Foot,Goal,37.9,R
+3754146,Premier League,2015/2016,2,50,False,,Leicester City,Riyad Mahrez,3814.0,Left Foot,Goal,43.5,L
+3754278,Premier League,2015/2016,2,84,False,,AFC Bournemouth,Glenn Murray,3085.0,Right Foot,Saved,43.0,L
+3753972,Premier League,2015/2016,1,38,False,,Swansea City,Jonjo Shelvey,3057.0,Right Foot,Goal,43.8,L
+3753978,Premier League,2015/2016,2,82,False,,Swansea City,Gylfi Þór Sigurðsson,3944.0,Right Foot,Goal,39.5,C
+3754006,Premier League,2015/2016,2,83,False,,West Bromwich Albion,Rickie Lambert,40124.0,Right Foot,Goal,43.5,L
+3754023,Premier League,2015/2016,2,85,False,,Leicester City,Jamie Vardy,10960.0,Right Foot,Goal,42.5,L
+3754025,Premier League,2015/2016,2,49,False,,Chelsea,Oscar dos Santos Emboaba Júnior,40122.0,Right Foot,Goal,42.7,L
+3754056,Premier League,2015/2016,2,90,False,,Stoke City,Marko Arnautović,3325.0,Right Foot,Goal,39.5,C
+3754067,Premier League,2015/2016,1,24,False,,Crystal Palace,Yohan Cabaye,3277.0,Right Foot,Goal,36.7,R
+3754099,Premier League,2015/2016,2,88,False,,Crystal Palace,Yohan Cabaye,3277.0,Right Foot,Goal,42.4,L
+3754057,Premier League,2015/2016,1,25,False,,Tottenham Hotspur,Harry Kane,10955.0,Right Foot,Goal,39.4,C
+3754054,Premier League,2015/2016,2,68,False,,Manchester City,Wilfried Guemiand Bony,3598.0,Right Foot,Off T,42.9,L
+3754185,Premier League,2015/2016,2,86,False,,Watford,Troy Deeney,3454.0,Right Foot,Goal,38.2,R
+3754119,Premier League,2015/2016,1,47,False,,Sunderland,Adam Johnson,42902.0,Left Foot,Goal,43.2,L
+3754167,Premier League,2015/2016,2,88,False,,Manchester City,Gnégnéri Yaya Touré,3087.0,Right Foot,Goal,36.9,R
+3754167,Premier League,2015/2016,2,96,False,,Manchester City,Aleksandar Kolarov,5596.0,Left Foot,Off T,45.5,L
+3754153,Premier League,2015/2016,1,45,False,,Crystal Palace,Connor Wickham,20641.0,Right Foot,Goal,40.8,C
+3754153,Premier League,2015/2016,2,75,False,,Stoke City,Bojan Krkíc Pérez,4913.0,Right Foot,Goal,37.1,R
+3754166,Premier League,2015/2016,1,26,False,,Leicester City,Riyad Mahrez,3814.0,Left Foot,Goal,36.3,R
+3754166,Premier League,2015/2016,2,64,False,,Leicester City,Riyad Mahrez,3814.0,Left Foot,Goal,43.0,L
+3754204,Premier League,2015/2016,1,11,False,,Aston Villa,Scott Sinclair,11117.0,Right Foot,Goal,36.8,R
+3754219,Premier League,2015/2016,2,86,False,,AFC Bournemouth,Charlie Daniels,3345.0,Left Foot,Goal,42.4,L
+3754285,Premier League,2015/2016,2,61,False,,Aston Villa,Jordan Ayew,3450.0,Right Foot,Goal,39.4,C
+3754270,Premier League,2015/2016,2,77,False,,Stoke City,Marko Arnautović,3325.0,Right Foot,Goal,37.4,R
+3754237,Premier League,2015/2016,1,24,False,,Leicester City,Riyad Mahrez,3814.0,Left Foot,Goal,42.8,L
+3754266,Premier League,2015/2016,2,70,False,,Crystal Palace,Yohan Cabaye,3277.0,Right Foot,Goal,38.0,R
+3754269,Premier League,2015/2016,1,3,False,,Stoke City,Bojan Krkíc Pérez,4913.0,Right Foot,Goal,43.3,L
+3754234,Premier League,2015/2016,1,8,False,,Tottenham Hotspur,Harry Kane,10955.0,Right Foot,Goal,42.5,L
+3754286,Premier League,2015/2016,1,29,False,,Watford,Troy Deeney,3454.0,Right Foot,Goal,42.0,L
+3754287,Premier League,2015/2016,1,41,False,,Watford,Troy Deeney,3454.0,Right Foot,Goal,43.1,L
+3754287,Premier League,2015/2016,2,79,False,,Chelsea,Oscar dos Santos Emboaba Júnior,40122.0,Right Foot,Off T,40.1,C
+3754335,Premier League,2015/2016,1,27,False,,Leicester City,Jamie Vardy,10960.0,Right Foot,Goal,38.2,R
+3754297,Premier League,2015/2016,2,90,False,,Manchester United,Juan Manuel Mata García,3294.0,Left Foot,Goal,40.0,C
+3754301,Premier League,2015/2016,2,83,False,,Arsenal,Santiago Cazorla González,11386.0,Right Foot,Wayward,42.8,L
+3754156,Premier League,2015/2016,2,64,False,,Leicester City,Jamie Vardy,10960.0,Right Foot,Goal,39.6,C
+3754156,Premier League,2015/2016,2,74,False,,Watford,Troy Deeney,3454.0,Right Foot,Goal,37.8,R
+3754000,Premier League,2015/2016,2,68,False,,Southampton,Dušan Tadić,3831.0,Left Foot,Goal,43.2,L
+3754003,Premier League,2015/2016,2,69,False,,Manchester United,Ander Herrera Agüera,3606.0,Right Foot,Goal,37.8,R
+3754131,Premier League,2015/2016,2,47,False,,West Ham United,Mark Noble,3874.0,Right Foot,Goal,37.7,R
+3754131,Premier League,2015/2016,2,78,False,,AFC Bournemouth,Callum Wilson,3616.0,Right Foot,Goal,43.3,L
+3754059,Premier League,2015/2016,1,13,False,,West Bromwich Albion,James Morrison,3490.0,Right Foot,Saved,40.1,C
+3754064,Premier League,2015/2016,2,49,False,,Southampton,Sadio Mané,3629.0,Right Foot,Saved,36.8,R
+3753973,Premier League,2015/2016,2,88,False,,Chelsea,Francesc Fàbregas i Soler,3478.0,Right Foot,Goal,43.3,L
+3753994,Premier League,2015/2016,2,74,False,,Southampton,Ryan Bertrand,20045.0,Left Foot,Goal,37.2,R
+3754004,Premier League,2015/2016,2,53,False,,AFC Bournemouth,Charlie Daniels,3345.0,Left Foot,Goal,43.2,L
+3754027,Premier League,2015/2016,2,78,False,,Tottenham Hotspur,Harry Kane,10955.0,Right Foot,Goal,36.4,R
+3754033,Premier League,2015/2016,2,64,False,,Leicester City,Jamie Vardy,10960.0,Right Foot,Goal,36.6,R
+3754033,Premier League,2015/2016,2,71,False,,Leicester City,Jamie Vardy,10960.0,Right Foot,Off T,40.1,C
+3754035,Premier League,2015/2016,1,18,False,,Manchester City,Sergio Leonel Agüero del Castillo,3237.0,Right Foot,Goal,43.3,L
+3754071,Premier League,2015/2016,1,20,False,,Swansea City,Gylfi Þór Sigurðsson,3944.0,Right Foot,Goal,37.5,R
+3754075,Premier League,2015/2016,1,47,False,,Chelsea,Alexandre Rodrigues da Silva,25351.0,Right Foot,Goal,36.6,R
+3754086,Premier League,2015/2016,1,44,False,,West Ham United,Mark Noble,3874.0,Right Foot,Goal,42.5,L
+3754086,Premier League,2015/2016,2,52,False,,West Ham United,Mark Noble,3874.0,Right Foot,Goal,39.8,C
+3754086,Premier League,2015/2016,2,91,False,,Watford,Troy Deeney,3454.0,Right Foot,Saved,39.8,C
+3754088,Premier League,2015/2016,1,8,False,,Manchester United,Wayne Mark Rooney,3538.0,Right Foot,Goal,42.0,L
+3754088,Premier League,2015/2016,2,66,False,,Newcastle United,Aleksandar Mitrović,4269.0,Right Foot,Goal,42.5,L
+3754110,Premier League,2015/2016,1,8,False,,Manchester City,Sergio Leonel Agüero del Castillo,3237.0,Right Foot,Goal,37.0,R
+3754123,Premier League,2015/2016,1,43,False,,Everton,Leighton Baines,3518.0,Left Foot,Goal,39.7,C
+3754127,Premier League,2015/2016,1,10,False,,Everton,Romelu Lukaku Menama,3289.0,Left Foot,Goal,40.1,C
+3754132,Premier League,2015/2016,2,93,False,,Sunderland,Jermain Defoe,3337.0,Right Foot,Goal,42.4,L
+3754147,Premier League,2015/2016,2,52,False,,Tottenham Hotspur,Harry Kane,10955.0,Right Foot,Goal,42.1,L
+3754155,Premier League,2015/2016,2,66,False,,West Bromwich Albion,Saido Berahino,4630.0,Right Foot,Saved,38.2,R
+3754155,Premier League,2015/2016,2,86,False,,West Bromwich Albion,Saido Berahino,4630.0,Right Foot,Saved,43.4,L
+3754163,Premier League,2015/2016,1,16,False,,Swansea City,Gylfi Þór Sigurðsson,3944.0,Right Foot,Goal,36.4,R
+3754168,Premier League,2015/2016,1,34,False,,Southampton,James Ward-Prowse,3328.0,Right Foot,Goal,36.7,R
+3754170,Premier League,2015/2016,2,69,False,,Crystal Palace,Yohan Cabaye,3277.0,Right Foot,Saved,42.3,L
+3754172,Premier League,2015/2016,1,40,False,,Sunderland,Fabio Borini,7171.0,Right Foot,Goal,36.5,R
+3754220,Premier League,2015/2016,2,95,False,,Liverpool,Christian Benteke Liolo,3380.0,Right Foot,Goal,43.4,L
+3754225,Premier League,2015/2016,1,42,False,,West Bromwich Albion,Craig Gardner,9485.0,Right Foot,Saved to Post,36.5,R
+3754227,Premier League,2015/2016,2,83,False,,West Ham United,Andy Carroll,4271.0,Left Foot,Goal,43.2,L
+3754227,Premier League,2015/2016,2,94,False,,Leicester City,José Leonardo Ulloa,3671.0,Right Foot,Goal,43.5,L
+3754229,Premier League,2015/2016,2,65,False,,Chelsea,Francesc Fàbregas i Soler,3478.0,Right Foot,Goal,36.8,R
+3754243,Premier League,2015/2016,2,85,False,,Newcastle United,Aleksandar Mitrović,4269.0,Right Foot,Goal,43.5,L
+3754249,Premier League,2015/2016,2,72,False,,Manchester City,Sergio Leonel Agüero del Castillo,3237.0,Right Foot,Post,44.1,L
+3754250,Premier League,2015/2016,1,32,False,,Leicester City,Riyad Mahrez,3814.0,Left Foot,Saved,38.4,R
+3754252,Premier League,2015/2016,2,87,False,,Everton,Ross Barkley,4275.0,Right Foot,Goal,37.5,R
+3754252,Premier League,2015/2016,2,93,False,,Everton,Ross Barkley,4275.0,Right Foot,Goal,40.0,C
+3754261,Premier League,2015/2016,1,44,False,,Leicester City,Jamie Vardy,10960.0,Right Foot,Goal,42.0,L
+3754277,Premier League,2015/2016,2,68,False,,Everton,Romelu Lukaku Menama,3289.0,Left Foot,Saved,38.1,R
+3754307,Premier League,2015/2016,1,42,False,,Manchester City,Sergio Leonel Agüero del Castillo,3237.0,Right Foot,Goal,37.2,R
+3754308,Premier League,2015/2016,2,60,False,,Watford,Troy Deeney,3454.0,Right Foot,Goal,42.8,L
+3754317,Premier League,2015/2016,1,29,False,,Tottenham Hotspur,Harry Kane,10955.0,Right Foot,Goal,42.6,L
+3754321,Premier League,2015/2016,2,50,False,,Stoke City,Marko Arnautović,3325.0,Right Foot,Goal,38.8,C
+3754322,Premier League,2015/2016,2,79,False,,Manchester City,Sergio Leonel Agüero del Castillo,3237.0,Right Foot,Goal,36.7,R
+3754333,Premier League,2015/2016,2,72,False,,Newcastle United,Georginio Wijnaldum,3567.0,Right Foot,Goal,43.1,L
+3754348,Premier League,2015/2016,2,53,False,,Norwich City,Wes Hoolahan,10966.0,Left Foot,Goal,41.8,L
+3754078,Premier League,2015/2016,2,54,False,,Swansea City,Bafétimbi Gomis,20521.0,Right Foot,Goal,42.5,L
+18241,Champions League,2013/2014,4,119,False,,Real Madrid,Cristiano Ronaldo dos Santos Aveiro,5207.0,Right Foot,Goal,42.4,L
+3922240,African Cup of Nations,2023,1,45,False,,Egypt,Mostafa Mohamed Ahmed Abdallah,66886.0,Right Foot,Goal,43.3,L
+3922240,African Cup of Nations,2023,5,120,True,2.0,Egypt,Mohamed Abdelmonem,69563.0,Right Foot,Goal,36.5,R
+3922240,African Cup of Nations,2023,5,121,True,1.0,Congo DR,Samuel Moutoussamy,4412.0,Left Foot,Goal,43.7,L
+3922240,African Cup of Nations,2023,5,121,True,3.0,Egypt,Mostafa Mohamed Ahmed Abdallah,66886.0,Right Foot,Off T,45.1,L
+3922240,African Cup of Nations,2023,5,122,True,2.0,Congo DR,Arthur Masuaku,3587.0,Left Foot,Off T,41.2,C
+3922240,African Cup of Nations,2023,5,123,True,4.0,Egypt,Omar Marmoush,40761.0,Right Foot,Goal,36.5,R
+3922240,African Cup of Nations,2023,5,124,True,3.0,Congo DR,Grady Diangana,18244.0,Left Foot,Goal,40.8,C
+3922240,African Cup of Nations,2023,5,125,True,5.0,Egypt,Omar Kamal Abdel Wahed,70783.0,Right Foot,Goal,42.3,L
+3922240,African Cup of Nations,2023,5,126,True,4.0,Congo DR,Silas Katompa Mvumpa,13329.0,Right Foot,Goal,43.7,L
+3922240,African Cup of Nations,2023,5,127,True,6.0,Egypt,Mohamed Hany Gamal Eldemerdash,66892.0,Right Foot,Goal,43.5,L
+3922240,African Cup of Nations,2023,5,127,True,5.0,Congo DR,Aaron Tshibola,4753.0,Right Foot,Goal,42.0,L
+3922240,African Cup of Nations,2023,5,128,True,7.0,Egypt,Ahmed Elsayed Ali Elsayed Hegazy,4063.0,Right Foot,Goal,38.3,R
+3922240,African Cup of Nations,2023,5,129,True,6.0,Congo DR,Gedeon Kalulu Kyatengwa,30193.0,Right Foot,Goal,42.9,L
+3922240,African Cup of Nations,2023,5,130,True,8.0,Egypt,Mostafa Fathi,68755.0,Left Foot,Goal,42.7,L
+3922240,African Cup of Nations,2023,5,131,True,7.0,Congo DR,Chancel Mbemba Mangulu,3044.0,Right Foot,Goal,41.4,C
+3922240,African Cup of Nations,2023,5,132,True,9.0,Egypt,Mahmoud Hamada,67728.0,Right Foot,Goal,37.0,R
+3922240,African Cup of Nations,2023,5,132,True,8.0,Congo DR,Henoc Inonga Baka,105946.0,Right Foot,Goal,37.0,R
+3922240,African Cup of Nations,2023,5,133,True,10.0,Egypt,Mohamed Abougabal,66879.0,Right Foot,Post,37.0,R
+3922240,African Cup of Nations,2023,5,134,True,9.0,Congo DR,Lionel Mpasi-Nzau,35413.0,Right Foot,Goal,42.8,L
+3920407,African Cup of Nations,2023,1,13,False,,South Africa,Percy Tau,29367.0,Left Foot,Goal,43.0,L
+3920402,African Cup of Nations,2023,2,70,False,,Burkina Faso,Bertrand Isidore Traoré,2956.0,Left Foot,Goal,41.0,C
+3920405,African Cup of Nations,2023,1,41,False,,Congo DR,Cédric Bakambu,6862.0,Right Foot,Post,36.1,R
+3922658,African Cup of Nations,2023,5,120,True,1.0,Cape Verde Islands,Tiago Manuel Dias Correia,7900.0,Right Foot,Saved,36.9,R
+3922658,African Cup of Nations,2023,5,121,True,1.0,South Africa,Teboho Mokoena,66716.0,Right Foot,Goal,37.7,R
+3922658,African Cup of Nations,2023,5,122,True,2.0,Cape Verde Islands,Willy Afonso Semedo Johnson,28413.0,Right Foot,Saved,37.0,R
+3922658,African Cup of Nations,2023,5,123,True,2.0,South Africa,Zakhele Lerato Lepasa,64607.0,Right Foot,Post,40.5,C
+3922658,African Cup of Nations,2023,5,123,True,3.0,Cape Verde Islands,Laros Duarte,21173.0,Right Foot,Saved,37.1,R
+3922658,African Cup of Nations,2023,5,125,True,3.0,South Africa,Aubrey Maphosa Modiba,65733.0,Left Foot,Saved,42.6,L
+3922658,African Cup of Nations,2023,5,126,True,4.0,Cape Verde Islands,Bryan Alberto Silva Teixeira Jr.,32868.0,Right Foot,Goal,43.2,L
+3922658,African Cup of Nations,2023,5,127,True,4.0,South Africa,Mothobi Mvala,65732.0,Right Foot,Goal,38.5,C
+3922658,African Cup of Nations,2023,5,128,True,5.0,Cape Verde Islands,Erickson Patrick Correia Andrade,50968.0,Left Foot,Saved,42.8,L
+3920410,African Cup of Nations,2023,1,14,False,,Ghana,Jordan Ayew,3450.0,Right Foot,Goal,43.8,L
+3920410,African Cup of Nations,2023,2,69,False,,Ghana,Jordan Ayew,3450.0,Right Foot,Goal,37.1,R
+3920410,African Cup of Nations,2023,2,90,False,,Mozambique,Geny Cipriano Catamo,127300.0,Left Foot,Goal,42.6,L
+3923880,African Cup of Nations,2023,5,120,True,1.0,South Africa,Teboho Mokoena,66716.0,Right Foot,Post,36.0,R
+3923880,African Cup of Nations,2023,5,121,True,1.0,Congo DR,Samuel Moutoussamy,4412.0,Left Foot,Goal,36.4,R
+3923880,African Cup of Nations,2023,5,122,True,2.0,South Africa,Nkosinathi Sibisi,67974.0,Right Foot,Goal,41.7,L
+3923880,African Cup of Nations,2023,5,123,True,2.0,Congo DR,Omenuke Mfulu,18783.0,Right Foot,Goal,40.3,C
+3923880,African Cup of Nations,2023,5,123,True,3.0,South Africa,Thabang Amod Monare,64629.0,Right Foot,Goal,36.9,R
+3923880,African Cup of Nations,2023,5,124,True,3.0,Congo DR,Cédric Bakambu,6862.0,Right Foot,Goal,39.4,C
+3923880,African Cup of Nations,2023,5,125,True,4.0,South Africa,Aubrey Maphosa Modiba,65733.0,Left Foot,Goal,43.2,L
+3923880,African Cup of Nations,2023,5,126,True,4.0,Congo DR,Joris Kayembe Ditu,4939.0,Left Foot,Goal,38.7,C
+3923880,African Cup of Nations,2023,5,127,True,5.0,South Africa,Zakhele Lerato Lepasa,64607.0,Right Foot,Goal,37.6,R
+3923880,African Cup of Nations,2023,5,128,True,5.0,Congo DR,Chancel Mbemba Mangulu,3044.0,Right Foot,Saved,37.7,R
+3923880,African Cup of Nations,2023,5,129,True,6.0,South Africa,Oswin Reagan Appollis,66725.0,Right Foot,Goal,36.8,R
+3923880,African Cup of Nations,2023,5,130,True,6.0,Congo DR,Yoane Wissa,7294.0,Right Foot,Goal,42.8,L
+3923880,African Cup of Nations,2023,5,131,True,7.0,South Africa,Siyanda Xulu,102722.0,Right Foot,Goal,37.1,R
+3923880,African Cup of Nations,2023,5,132,True,7.0,Congo DR,Meschak Elia,35684.0,Right Foot,Saved,38.1,R
+3922837,African Cup of Nations,2023,2,66,False,,Nigeria,William Troost-Ekong,5455.0,Right Foot,Goal,40.7,C
+3922837,African Cup of Nations,2023,2,89,False,,South Africa,Teboho Mokoena,66716.0,Right Foot,Goal,36.8,R
+3922837,African Cup of Nations,2023,5,120,True,2.0,Nigeria,Terem Igobor Moffi,34335.0,Left Foot,Goal,39.8,C
+3922837,African Cup of Nations,2023,5,121,True,2.0,South Africa,Teboho Mokoena,66716.0,Right Foot,Saved,38.1,R
+3922837,African Cup of Nations,2023,5,121,True,3.0,Nigeria,Kenneth Josiah Omeruo,5830.0,Right Foot,Goal,36.6,R
+3922837,African Cup of Nations,2023,5,122,True,3.0,South Africa,Mihlali Samson Mayambela,133003.0,Right Foot,Goal,43.5,L
+3922837,African Cup of Nations,2023,5,123,True,4.0,Nigeria,Temitayo Olufisayo Olaoluwa Aina,11492.0,Right Foot,Off T,37.6,R
+3922837,African Cup of Nations,2023,5,124,True,4.0,South Africa,Evidence Makgopa,65853.0,Right Foot,Saved,38.6,C
+3922837,African Cup of Nations,2023,5,125,True,5.0,Nigeria,William Troost-Ekong,5455.0,Right Foot,Goal,37.0,R
+3922837,African Cup of Nations,2023,5,126,True,5.0,South Africa,Mothobi Mvala,65732.0,Right Foot,Goal,38.4,R
+3922837,African Cup of Nations,2023,5,127,True,6.0,Nigeria,Kelechi Promise Iheanacho,3708.0,Left Foot,Goal,43.7,L
+3922242,African Cup of Nations,2023,2,85,False,,Côte d'Ivoire,Franck Yannick Kessié,7023.0,Right Foot,Goal,41.6,L
+3922242,African Cup of Nations,2023,5,120,True,1.0,Senegal,Kalidou Koulibaly,5675.0,Right Foot,Goal,42.8,L
+3922242,African Cup of Nations,2023,5,121,True,2.0,Côte d'Ivoire,Nicolas Pépé,3013.0,Left Foot,Goal,37.4,R
+3922242,African Cup of Nations,2023,5,122,True,2.0,Senegal,Pape Matar Sarr,50498.0,Right Foot,Goal,37.9,R
+3922242,African Cup of Nations,2023,5,123,True,3.0,Côte d'Ivoire,Christian Kouamé,12496.0,Right Foot,Goal,43.2,L
+3922242,African Cup of Nations,2023,5,124,True,3.0,Senegal,Moussa Niakhate,3198.0,Left Foot,Post,36.0,R
+3922242,African Cup of Nations,2023,5,125,True,4.0,Côte d'Ivoire,Sébastien Haller,8673.0,Right Foot,Goal,37.2,R
+3922242,African Cup of Nations,2023,5,126,True,4.0,Senegal,Cheikh Ahmadou Bamba Mbacke Dieng,88123.0,Right Foot,Goal,36.6,R
+3922242,African Cup of Nations,2023,5,127,True,5.0,Côte d'Ivoire,Serge Aurier,3481.0,Right Foot,Goal,38.0,R
+3922242,African Cup of Nations,2023,5,128,True,5.0,Senegal,Sadio Mané,3629.0,Right Foot,Goal,41.0,C
+3922242,African Cup of Nations,2023,5,129,True,6.0,Côte d'Ivoire,Franck Yannick Kessié,7023.0,Right Foot,Goal,42.7,L
+3922239,African Cup of Nations,2023,2,68,False,,Equatorial Guinea,Emilio Nsue López,13581.0,Right Foot,Post,44.1,L
+3922659,African Cup of Nations,2023,1,16,False,,Mali,Adama Traoré,4464.0,Left Foot,Saved,43.0,L
+3922244,African Cup of Nations,2023,2,56,False,,Burkina Faso,Bertrand Isidore Traoré,2956.0,Left Foot,Goal,36.7,R
+3922356,African Cup of Nations,2023,1,20,False,,Guinea,Mohamed Bayo,8454.0,Right Foot,Goal,42.7,L
+3922356,African Cup of Nations,2023,2,64,False,,Congo DR,Yoane Wissa,7294.0,Right Foot,Goal,36.9,R
+3922243,African Cup of Nations,2023,2,84,False,,Morocco,Achraf Hakimi Mouh,5245.0,Right Foot,Post,38.2,R
+3922241,African Cup of Nations,2023,2,87,False,,Cape Verde Islands,Ryan Isaac Mendes da Graça,40485.0,Right Foot,Goal,40.3,C
+3920385,African Cup of Nations,2023,2,96,False,,Egypt,Mohamed Salah,3531.0,Left Foot,Goal,35.9,R
+3920398,African Cup of Nations,2023,2,54,False,,Nigeria,William Troost-Ekong,5455.0,Right Foot,Goal,40.1,C
+3920392,African Cup of Nations,2023,2,95,False,,Burkina Faso,Bertrand Isidore Traoré,2956.0,Left Foot,Goal,36.6,R
+3920391,African Cup of Nations,2023,1,18,False,,South Africa,Percy Tau,29367.0,Left Foot,Off T,36.8,R
+3920390,African Cup of Nations,2023,2,67,False,,Angola,Cristóvão Paciência Mabululo,128881.0,Right Foot,Goal,38.2,R
+3888754,Copa del Rey,1977/1978,1,8,False,,Barcelona,Carles Rexach i Cerdà,397775.0,Right Foot,Goal,43.2,L
+70282,La Liga,2012/2013,1,38,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,36.7,R
+266724,La Liga,2012/2013,2,57,False,,Mallorca,Víctor Casadesús Castaño,23791.0,Right Foot,Goal,40.2,C
+70304,La Liga,2012/2013,1,25,False,,RC Deportivo La Coruña,Luís Miguel Afonso Fernandes,10325.0,Right Foot,Goal,42.5,L
+70280,La Liga,2012/2013,2,86,False,,Levante UD,José Javier Barkero Saludes,26226.0,Left Foot,Saved,37.7,R
+266433,La Liga,2012/2013,1,28,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,37.5,R
+70260,La Liga,2012/2013,1,27,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,36.6,R
+70292,La Liga,2012/2013,2,73,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,42.4,L
+9880,La Liga,2017/2018,2,86,False,,Valencia,Daniel Parejo Muñoz,6595.0,Right Foot,Goal,43.1,L
+9827,La Liga,2017/2018,2,47,False,,Las Palmas,Jonathan Calleri,6930.0,Right Foot,Goal,43.5,L
+9609,La Liga,2017/2018,1,20,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,36.9,R
+9736,La Liga,2017/2018,2,63,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,41.8,L
+9581,La Liga,2017/2018,1,38,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Saved,36.9,R
+9726,La Liga,2017/2018,2,69,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Saved,42.8,L
+18240,Champions League,2012/2013,2,67,False,,Borussia Dortmund,İlkay Gündoğan,10287.0,Right Foot,Goal,43.0,L
+265963,La Liga,2014/2015,1,8,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,40.4,C
+266916,La Liga,2014/2015,2,55,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,43.5,L
+266916,La Liga,2014/2015,2,80,False,,Rayo Vallecano,Alberto Bueno Calvo,6879.0,Right Foot,Goal,39.5,C
+265866,La Liga,2014/2015,2,84,False,,Barcelona,Neymar da Silva Santos Junior,4320.0,Right Foot,Goal,42.5,L
+267085,La Liga,2014/2015,1,33,False,,Real Madrid,Cristiano Ronaldo dos Santos Aveiro,5207.0,Right Foot,Goal,43.0,L
+70303,La Liga,2014/2015,2,56,False,,Atlético Madrid,Mario Mandžukić,5472.0,Right Foot,Goal,39.6,C
+266794,La Liga,2014/2015,2,54,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,37.7,R
+267343,La Liga,2014/2015,2,52,False,,Granada,Francisco Manuel Rico Castro,25707.0,Right Foot,Goal,43.6,L
+266525,La Liga,2014/2015,1,9,False,,Valencia,Daniel Parejo Muñoz,6595.0,Right Foot,Saved,37.9,R
+266741,La Liga,2014/2015,2,64,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,43.3,L
+266967,La Liga,2014/2015,1,30,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,42.6,L
+266770,La Liga,2014/2015,1,41,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Off T,35.5,R
+16029,La Liga,2018/2019,2,62,False,,Barcelona,Luis Alberto Suárez Díaz,5246.0,Right Foot,Goal,37.2,R
+16182,La Liga,2018/2019,1,42,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,43.6,L
+16182,La Liga,2018/2019,2,84,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Saved,43.1,L
+16157,La Liga,2018/2019,1,31,False,,Valencia,Daniel Parejo Muñoz,6595.0,Right Foot,Goal,36.7,R
+16157,La Liga,2018/2019,1,38,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,41.7,L
+16056,La Liga,2018/2019,2,67,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,43.0,L
+16275,La Liga,2018/2019,2,59,False,,Barcelona,Luis Alberto Suárez Díaz,5246.0,Right Foot,Goal,43.7,L
+15973,La Liga,2018/2019,2,92,False,,Barcelona,Luis Alberto Suárez Díaz,5246.0,Right Foot,Goal,43.1,L
+16205,La Liga,2018/2019,2,50,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,43.1,L
+69307,La Liga,2010/2011,2,83,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,43.5,L
+69305,La Liga,2010/2011,2,52,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,42.1,L
+69295,La Liga,2010/2011,1,32,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,43.4,L
+69270,La Liga,2010/2011,2,69,False,,Getafe,Manuel del Moral Fernández,24507.0,Right Foot,Goal,36.5,R
+69245,La Liga,2010/2011,2,52,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,41.7,L
+69245,La Liga,2010/2011,2,81,False,,Real Madrid,Cristiano Ronaldo dos Santos Aveiro,5207.0,Right Foot,Goal,43.2,L
+69246,La Liga,2010/2011,2,81,False,,Real Sociedad,Xabier Prieto Argarate,6690.0,Right Foot,Goal,39.1,C
+69282,La Liga,2010/2011,2,49,False,,Athletic Club,Andoni Iraola Sagarna,26031.0,Right Foot,Goal,43.2,L
+69286,La Liga,2010/2011,1,35,False,,Racing Santander,Mohamed Gasana Tchité,26490.0,Right Foot,Saved,37.0,R
+3930178,UEFA Euro,2024,2,53,False,,Croatia,Luka Modrić,5463.0,Right Foot,Saved,42.3,L
+3930160,UEFA Euro,2024,2,79,False,,Croatia,Bruno Petković,7693.0,Right Foot,Saved,37.1,R
+3938643,UEFA Euro,2024,2,55,False,,France,Kylian Mbappé Lottin,3009.0,Right Foot,Goal,43.0,L
+3938643,UEFA Euro,2024,2,78,False,,Poland,Robert Lewandowski,5668.0,Right Foot,Goal,36.1,R
+3938641,UEFA Euro,2024,2,77,False,,Austria,Marko Arnautović,3325.0,Right Foot,Goal,42.6,L
+3938642,UEFA Euro,2024,1,48,False,,Georgia,Georges Mikautadze,33234.0,Right Foot,Goal,43.1,L
+3938644,UEFA Euro,2024,2,56,False,,Georgia,Georges Mikautadze,33234.0,Right Foot,Goal,43.7,L
+3942227,UEFA Euro,2024,5,120,True,1.0,England,Cole Palmer,39461.0,Left Foot,Goal,37.3,R
+3942227,UEFA Euro,2024,5,121,True,1.0,Switzerland,Manuel Obafemi Akanji,5549.0,Right Foot,Saved,42.0,L
+3942227,UEFA Euro,2024,5,121,True,2.0,England,Jude Bellingham,30714.0,Right Foot,Goal,43.4,L
+3942227,UEFA Euro,2024,5,122,True,2.0,Switzerland,Fabian Lukas Schär,5537.0,Right Foot,Goal,42.6,L
+3942227,UEFA Euro,2024,5,123,True,3.0,England,Bukayo Saka,22084.0,Left Foot,Goal,43.8,L
+3942227,UEFA Euro,2024,5,124,True,3.0,Switzerland,Xherdan Shaqiri,3533.0,Left Foot,Goal,43.8,L
+3942227,UEFA Euro,2024,5,125,True,4.0,England,Ivan Toney,3834.0,Right Foot,Goal,37.3,R
+3942227,UEFA Euro,2024,5,126,True,4.0,Switzerland,Mohamed Zeki Amdouni,48335.0,Right Foot,Goal,39.7,C
+3942227,UEFA Euro,2024,5,127,True,5.0,England,Trent Alexander-Arnold,3664.0,Right Foot,Goal,36.9,R
+3942819,UEFA Euro,2024,1,17,False,,England,Harry Kane,10955.0,Right Foot,Goal,36.5,R
+3942349,UEFA Euro,2024,5,120,True,1.0,France,Ousmane Dembélé,5477.0,Right Foot,Goal,42.7,L
+3942349,UEFA Euro,2024,5,120,True,1.0,Portugal,Cristiano Ronaldo dos Santos Aveiro,5207.0,Right Foot,Goal,37.1,R
+3942349,UEFA Euro,2024,5,121,True,2.0,France,Youssouf Fofana,11990.0,Right Foot,Goal,39.5,C
+3942349,UEFA Euro,2024,5,122,True,2.0,Portugal,Bernardo Mota Veiga de Carvalho e Silva,3193.0,Left Foot,Goal,43.0,L
+3942349,UEFA Euro,2024,5,123,True,3.0,France,Jules Koundé,4445.0,Right Foot,Goal,36.6,R
+3942349,UEFA Euro,2024,5,124,True,3.0,Portugal,João Félix Sequeira,12041.0,Right Foot,Post,36.0,R
+3942349,UEFA Euro,2024,5,125,True,4.0,France,Bradley Barcola,39420.0,Right Foot,Goal,37.9,R
+3942349,UEFA Euro,2024,5,126,True,4.0,Portugal,Nuno Mendes,41092.0,Left Foot,Goal,43.4,L
+3942349,UEFA Euro,2024,5,127,True,5.0,France,Theo Bernard François Hernández,6704.0,Left Foot,Goal,36.6,R
+3941020,UEFA Euro,2024,3,104,False,,Portugal,Cristiano Ronaldo dos Santos Aveiro,5207.0,Right Foot,Saved to Post,43.1,L
+3941020,UEFA Euro,2024,5,120,True,1.0,Slovenia,Josip Iličić,7139.0,Left Foot,Saved,42.8,L
+3941020,UEFA Euro,2024,5,120,True,2.0,Portugal,Cristiano Ronaldo dos Santos Aveiro,5207.0,Right Foot,Goal,36.6,R
+3941020,UEFA Euro,2024,5,121,True,2.0,Slovenia,Jure Balkovec,30940.0,Left Foot,Saved,37.3,R
+3941020,UEFA Euro,2024,5,122,True,3.0,Portugal,Bruno Miguel Borges Fernandes,5204.0,Right Foot,Goal,37.1,R
+3941020,UEFA Euro,2024,5,123,True,3.0,Slovenia,Benjamin Verbič,16510.0,Right Foot,Saved,37.1,R
+3941020,UEFA Euro,2024,5,124,True,4.0,Portugal,Bernardo Mota Veiga de Carvalho e Silva,3193.0,Left Foot,Goal,43.8,L
+3940983,UEFA Euro,2024,2,52,False,,Germany,Kai Havertz,8966.0,Left Foot,Goal,43.7,L
+3930183,UEFA Euro,2024,1,36,False,,Romania,Răzvan Gabriel Marin,16344.0,Right Foot,Goal,37.0,R
+3930158,UEFA Euro,2024,1,45,False,,Germany,Kai Havertz,8966.0,Left Foot,Goal,38.3,R
+68322,La Liga,2005/2006,1,47,False,,Barcelona,Samuel Eto''o Fils,19298.0,Right Foot,Goal,37.2,R
+69164,La Liga,2005/2006,2,80,False,,Barcelona,Ronaldo de Assis Moreira,25879.0,Right Foot,Goal,36.4,R
+68324,La Liga,2005/2006,2,68,False,,Barcelona,Ronaldo de Assis Moreira,25879.0,Right Foot,Off T,35.5,R
+68354,La Liga,2005/2006,1,3,False,,Barcelona,Ronaldo de Assis Moreira,25879.0,Right Foot,Saved,38.1,R
+68354,La Liga,2005/2006,2,56,False,,Barcelona,Ronaldo de Assis Moreira,25879.0,Right Foot,Goal,36.7,R
+68354,La Liga,2005/2006,2,70,False,,Racing Santander,Francisco Javier Casquero Paredes,26144.0,Right Foot,Goal,42.7,L
+68351,La Liga,2005/2006,2,79,False,,Barcelona,Ronaldo de Assis Moreira,25879.0,Right Foot,Goal,43.3,L
+68317,La Liga,2005/2006,2,78,False,,Barcelona,Ronaldo de Assis Moreira,25879.0,Right Foot,Goal,36.9,R
+68342,La Liga,2005/2006,1,37,False,,Barcelona,Ronaldo de Assis Moreira,25879.0,Right Foot,Goal,42.5,L
+69250,La Liga,2009/2010,2,86,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,44.0,L
+69240,La Liga,2009/2010,2,93,False,,Getafe,Roberto Soldado Rillo,26009.0,Right Foot,Goal,38.5,C
+69227,La Liga,2009/2010,2,90,False,,Barcelona,Zlatan Ibrahimović,3672.0,Right Foot,Goal,36.8,R
+3803000,Ligue 1,2021/2022,2,70,False,,Paris Saint-Germain,Neymar da Silva Santos Junior,4320.0,Right Foot,Goal,36.6,R
+3802665,Ligue 1,2021/2022,2,59,False,,Paris Saint-Germain,Kylian Mbappé Lottin,3009.0,Right Foot,Goal,43.7,L
+3802752,Ligue 1,2021/2022,2,65,False,,Paris Saint-Germain,Neymar da Silva Santos Junior,4320.0,Right Foot,Goal,41.9,L
+3802983,Ligue 1,2021/2022,1,49,False,,Paris Saint-Germain,Kylian Mbappé Lottin,3009.0,Right Foot,Goal,36.7,R
+3802683,Ligue 1,2021/2022,1,11,False,,Paris Saint-Germain,Kylian Mbappé Lottin,3009.0,Right Foot,Goal,37.0,R
+3802930,Ligue 1,2021/2022,1,24,False,,Paris Saint-Germain,Neymar da Silva Santos Junior,4320.0,Right Foot,Goal,37.4,R
+3802930,Ligue 1,2021/2022,2,48,False,,Troyes,Florian Tardieu,7219.0,Right Foot,Goal,40.0,C
+3802839,Ligue 1,2021/2022,1,50,False,,Nantes,Ludovic Blas,3235.0,Left Foot,Goal,38.8,C
+3802839,Ligue 1,2021/2022,2,58,False,,Paris Saint-Germain,Neymar da Silva Santos Junior,4320.0,Right Foot,Saved,41.9,L
+3901259,Ligue 1,2015/2016,2,81,False,,Olympique de Marseille,Steven Fletcher,9554.0,Left Foot,Saved,42.8,L
+3829509,Ligue 1,2015/2016,1,20,False,,Olympique de Marseille,Michy Batshuayi Tunga,3457.0,Right Foot,Goal,42.6,L
+3901162,Ligue 1,2015/2016,2,63,False,,Stade Malherbe Caen,Julien Féret,2959.0,Right Foot,Goal,36.6,R
+3900608,Ligue 1,2015/2016,1,40,False,,Stade Malherbe Caen,Andy Delort,3038.0,Right Foot,Goal,43.7,L
+3900559,Ligue 1,2015/2016,1,18,False,,Gazélec Ajaccio,Jacques Zoua Daogari,401505.0,Right Foot,Goal,43.5,L
+3900562,Ligue 1,2015/2016,2,84,False,,Stade Malherbe Caen,Andy Delort,3038.0,Right Foot,Saved,38.2,R
+3829472,Ligue 1,2015/2016,1,24,False,,Lyon,Alexandre Lacazette,3451.0,Right Foot,Goal,36.5,R
+3900596,Ligue 1,2015/2016,2,93,False,,Guingamp,Thibault Giresse,4434.0,Left Foot,Goal,37.2,R
+3900601,Ligue 1,2015/2016,1,40,False,,Montpellier,Jonas Martin,2950.0,Right Foot,Goal,36.6,R
+3901262,Ligue 1,2015/2016,1,13,False,,Stade Malherbe Caen,Andy Delort,3038.0,Right Foot,Goal,36.5,R
+3901257,Ligue 1,2015/2016,1,40,False,,Lille,Éderzito António Macedo Lopes,15996.0,Right Foot,Goal,36.7,R
+3901256,Ligue 1,2015/2016,1,31,False,,AS Monaco,Fábio Henrique Tavares,3247.0,Right Foot,Goal,41.9,L
+3901255,Ligue 1,2015/2016,1,30,False,,Toulouse,Martin Braithwaite Christensen,4447.0,Right Foot,Off T,40.8,C
+3901254,Ligue 1,2015/2016,2,55,False,,Stade de Reims,Grejohn Kyei,7367.0,Right Foot,Goal,37.3,R
+3901246,Ligue 1,2015/2016,1,45,False,,Caen,Andy Delort,3038.0,Right Foot,Goal,36.7,R
+3901243,Ligue 1,2015/2016,2,49,False,,Angers,Thomas Mangani,3185.0,Left Foot,Post,42.8,L
+3901237,Ligue 1,2015/2016,1,4,False,,Toulouse,Wissam Ben Yedder,6723.0,Right Foot,Saved,37.5,R
+3901230,Ligue 1,2015/2016,2,62,False,,Gazélec Ajaccio,Mohamed Larbi,10616.0,Right Foot,Goal,42.5,L
+3901224,Ligue 1,2015/2016,2,55,False,,OGC Nice,Hatem Ben Arfa,16462.0,Left Foot,Goal,42.0,L
+3901217,Ligue 1,2015/2016,2,60,False,,Troyes,Benjamin Nivet,3002.0,Right Foot,Goal,38.0,R
+3901213,Ligue 1,2015/2016,1,32,False,,OGC Nice,Hatem Ben Arfa,16462.0,Left Foot,Goal,37.7,R
+3901208,Ligue 1,2015/2016,2,55,False,,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,3745.0,Right Foot,Goal,37.1,R
+3901205,Ligue 1,2015/2016,2,46,False,,Lorient,Abdul Majeed Waris,7615.0,Right Foot,Goal,41.7,L
+3901201,Ligue 1,2015/2016,2,55,False,,Bastia,Gaël Danic,7349.0,Left Foot,Goal,40.3,C
+3901194,Ligue 1,2015/2016,2,90,False,,AS Monaco,Vágner Silva de Souza,18953.0,Right Foot,Saved,42.4,L
+3901193,Ligue 1,2015/2016,2,67,False,,AS Monaco,Fábio Henrique Tavares,3247.0,Right Foot,Goal,40.3,C
+3901187,Ligue 1,2015/2016,2,90,False,,Angers,Thomas Mangani,3185.0,Left Foot,Goal,40.5,C
+3901186,Ligue 1,2015/2016,2,93,False,,Lyon,Alexandre Lacazette,3451.0,Right Foot,Goal,42.8,L
+3901183,Ligue 1,2015/2016,2,74,False,,Paris Saint-Germain,Edinson Roberto Cavani Gómez,4319.0,Right Foot,Saved,38.0,R
+3901176,Ligue 1,2015/2016,2,49,False,,Toulouse,Wissam Ben Yedder,6723.0,Right Foot,Goal,43.4,L
+3901176,Ligue 1,2015/2016,2,85,False,,Toulouse,Martin Braithwaite Christensen,4447.0,Right Foot,Goal,36.4,R
+3901165,Ligue 1,2015/2016,1,37,False,,Bordeaux,Cheick Tidiane Diabaté,7130.0,Right Foot,Goal,37.0,R
+3901156,Ligue 1,2015/2016,2,65,False,,Guingamp,Thibault Giresse,4434.0,Left Foot,Goal,43.3,L
+3901156,Ligue 1,2015/2016,2,78,False,,Angers,Billy Ketkeophomphone,4441.0,Right Foot,Goal,38.6,C
+3900636,Ligue 1,2015/2016,2,78,False,,Lorient,Benjamin Moukandjo Bilé,33178.0,Right Foot,Goal,36.6,R
+3900628,Ligue 1,2015/2016,2,88,False,,Rennes,Ousmane Dembélé,5477.0,Right Foot,Goal,43.3,L
+3900627,Ligue 1,2015/2016,1,44,False,,Saint-Étienne,Alexander Toft Søderlund,3423.0,Right Foot,Saved to Post,38.9,C
+3900603,Ligue 1,2015/2016,2,63,False,,Toulouse,Wissam Ben Yedder,6723.0,Right Foot,Goal,36.5,R
+3900603,Ligue 1,2015/2016,2,88,False,,Toulouse,Wissam Ben Yedder,6723.0,Right Foot,Saved,38.3,R
+3900598,Ligue 1,2015/2016,1,38,False,,Toulouse,Wissam Ben Yedder,6723.0,Right Foot,Saved,36.5,R
+3900593,Ligue 1,2015/2016,1,24,False,,Lille,Sofiane Boufal,3625.0,Right Foot,Goal,36.7,R
+3900583,Ligue 1,2015/2016,1,20,False,,Rennes,Fallou Diagne,3022.0,Right Foot,Goal,37.0,R
+3900583,Ligue 1,2015/2016,1,38,False,,Rennes,Fallou Diagne,3022.0,Right Foot,Goal,43.0,L
+3900549,Ligue 1,2015/2016,2,78,False,,Saint-Étienne,Valentin Eysseric,4254.0,Right Foot,Goal,43.6,L
+3900540,Ligue 1,2015/2016,1,43,False,,Paris Saint-Germain,Zlatan Ibrahimović,3672.0,Right Foot,Goal,36.9,R
+3900529,Ligue 1,2015/2016,2,86,False,,Saint-Étienne,Valentin Eysseric,4254.0,Right Foot,Goal,36.6,R
+3900522,Ligue 1,2015/2016,1,30,False,,Toulouse,Martin Braithwaite Christensen,4447.0,Right Foot,Goal,38.2,R
+3900521,Ligue 1,2015/2016,2,57,False,,Paris Saint-Germain,Zlatan Ibrahimović,3672.0,Right Foot,Goal,43.2,L
+3900519,Ligue 1,2015/2016,2,95,False,,Rennes,Giovanni-Guy Yann Sio,3018.0,Left Foot,Saved,38.6,C
+3900514,Ligue 1,2015/2016,1,41,False,,Guingamp,Jimmy Briand,3213.0,Right Foot,Saved,37.1,R
+3829495,Ligue 1,2015/2016,1,40,False,,Lyon,Alexandre Lacazette,3451.0,Right Foot,Post,38.8,C
+3829496,Ligue 1,2015/2016,1,42,False,,Angers,Abdoul Razzagui Camara,3078.0,Left Foot,Saved,36.6,R
+3829466,Ligue 1,2015/2016,2,56,False,,Angers,Thomas Mangani,3185.0,Left Foot,Goal,43.2,L
+3900622,Ligue 1,2015/2016,2,81,False,,Bastia,Floyd Ayité,15689.0,Right Foot,Goal,37.2,R
+3900580,Ligue 1,2015/2016,2,79,False,,OGC Nice,Hatem Ben Arfa,16462.0,Left Foot,Goal,41.6,L
+3900580,Ligue 1,2015/2016,2,83,False,,OGC Nice,Hatem Ben Arfa,16462.0,Left Foot,Goal,37.9,R
+3900579,Ligue 1,2015/2016,1,13,False,,Saint-Étienne,Nolan Roux,3179.0,Right Foot,Goal,43.0,L
+3900572,Ligue 1,2015/2016,2,50,False,,AS Monaco,Fábio Henrique Tavares,3247.0,Right Foot,Goal,36.7,R
+3900564,Ligue 1,2015/2016,1,4,False,,AS Monaco,Lacina Traoré,3553.0,Left Foot,Saved,42.7,L
+3900558,Ligue 1,2015/2016,2,81,False,,AS Monaco,Fábio Henrique Tavares,3247.0,Right Foot,Goal,36.3,R
+3900557,Ligue 1,2015/2016,2,76,False,,Paris Saint-Germain,Zlatan Ibrahimović,3672.0,Right Foot,Goal,36.6,R
+3900553,Ligue 1,2015/2016,2,77,False,,Stade de Reims,Diego Rigonato Rodrigues,7363.0,Left Foot,Goal,42.4,L
+3900542,Ligue 1,2015/2016,2,69,False,,Stade Malherbe Caen,Andy Delort,3038.0,Right Foot,Goal,43.7,L
+3900524,Ligue 1,2015/2016,1,30,False,,Lorient,Benjamin Moukandjo Bilé,33178.0,Right Foot,Goal,39.0,C
+3900502,Ligue 1,2015/2016,2,61,False,,Troyes,Benjamin Nivet,3002.0,Right Foot,Goal,37.4,R
+3900502,Ligue 1,2015/2016,2,91,False,,Lorient,Benjamin Moukandjo Bilé,33178.0,Right Foot,Goal,42.4,L
+3900500,Ligue 1,2015/2016,2,82,False,,Angers,Thomas Mangani,3185.0,Left Foot,Saved,37.3,R
+3900493,Ligue 1,2015/2016,2,77,False,,Lyon,Claudio Beauvue,6600.0,Right Foot,Goal,42.6,L
+3900492,Ligue 1,2015/2016,2,63,False,,Lorient,Benjamin Moukandjo Bilé,33178.0,Right Foot,Goal,43.7,L
+3829501,Ligue 1,2015/2016,2,64,False,,Rennes,Pedro Henrique Konzen Medina da Silva,16503.0,Right Foot,Saved,37.3,R
+3829500,Ligue 1,2015/2016,1,40,False,,Paris Saint-Germain,Zlatan Ibrahimović,3672.0,Right Foot,Goal,38.1,R
+3829500,Ligue 1,2015/2016,1,43,False,,Paris Saint-Germain,Zlatan Ibrahimović,3672.0,Right Foot,Goal,38.0,R
+3829500,Ligue 1,2015/2016,2,54,False,,Marseille,Abdelaziz Barrada,23933.0,Right Foot,Saved,38.0,R
+3829498,Ligue 1,2015/2016,2,63,False,,Lorient,Abdul Majeed Waris,7615.0,Right Foot,Goal,37.9,R
+3829493,Ligue 1,2015/2016,1,42,False,,Lille,Sofiane Boufal,3625.0,Right Foot,Goal,37.0,R
+3829493,Ligue 1,2015/2016,2,71,False,,Montpellier,Ryad Boudebouz,6661.0,Left Foot,Post,36.1,R
+3829491,Ligue 1,2015/2016,1,37,False,,Angers,Thomas Mangani,3185.0,Left Foot,Goal,40.1,C
+3829491,Ligue 1,2015/2016,2,78,False,,Olympique de Marseille,Michy Batshuayi Tunga,3457.0,Right Foot,Goal,36.6,R
+3829490,Ligue 1,2015/2016,2,82,False,,Saint-Étienne,Jean-Christophe Bahebeck,8469.0,Right Foot,Off T,38.3,R
+3829482,Ligue 1,2015/2016,1,19,False,,Stade de Reims,"David N""Gog",401453.0,Right Foot,Saved,37.5,R
+3829481,Ligue 1,2015/2016,2,94,False,,AS Monaco,Fábio Henrique Tavares,3247.0,Right Foot,Goal,36.5,R
+3829473,Ligue 1,2015/2016,2,86,False,,Paris Saint-Germain,Zlatan Ibrahimović,3672.0,Right Foot,Saved,37.6,R
+3829467,Ligue 1,2015/2016,1,31,False,,Montpellier,Jonas Martin,2950.0,Right Foot,Goal,43.8,L
+3829463,Ligue 1,2015/2016,2,72,False,,Rennes,Paul-Georges Ntep de Madiba,4900.0,Right Foot,Saved,37.9,R
+3829462,Ligue 1,2015/2016,1,16,False,,AS Monaco,Fábio Henrique Tavares,3247.0,Right Foot,Goal,37.1,R
+3829452,Ligue 1,2015/2016,1,39,False,,Bordeaux,Wahbi Khazri,3196.0,Right Foot,Saved,38.0,R
+3829449,Ligue 1,2015/2016,2,66,False,,Rennes,Sylvain Armand,40699.0,Left Foot,Saved,37.9,R
+3829443,Ligue 1,2015/2016,1,2,False,,Guingamp,Sloan Privat,4799.0,Left Foot,Saved,37.1,R
+3829431,Ligue 1,2015/2016,2,90,False,,Lorient,Benjamin Moukandjo Bilé,33178.0,Right Foot,Goal,43.2,L
+3829427,Ligue 1,2015/2016,1,5,False,,OGC Nice,Hatem Ben Arfa,16462.0,Left Foot,Goal,36.4,R
+3829417,Ligue 1,2015/2016,1,44,False,,Gazélec Ajaccio,Mohamed Larbi,10616.0,Right Foot,Off T,42.7,L
+3788758,UEFA Euro,2020,2,56,False,,North Macedonia,Ezgjan Alioski,4713.0,Left Foot,Saved,42.3,L
+3788758,UEFA Euro,2020,2,83,False,,Ukraine,Ruslan Malinovskiy,16557.0,Left Foot,Saved,37.6,R
+3788773,UEFA Euro,2020,1,30,False,,Portugal,Cristiano Ronaldo dos Santos Aveiro,5207.0,Right Foot,Goal,38.4,R
+3788773,UEFA Euro,2020,1,46,False,,France,Karim Benzema,19677.0,Right Foot,Goal,37.5,R
+3788773,UEFA Euro,2020,2,59,False,,Portugal,Cristiano Ronaldo dos Santos Aveiro,5207.0,Right Foot,Goal,36.8,R
+3788761,UEFA Euro,2020,2,76,False,,Sweden,Emil Peter Forsberg,5625.0,Right Foot,Goal,42.6,L
+3788760,UEFA Euro,2020,1,36,False,,Czech Republic,Patrik Schick,7044.0,Left Foot,Goal,36.4,R
+3795108,UEFA Euro,2020,5,120,True,1.0,Spain,Sergio Busquets i Burgos,5203.0,Right Foot,Post,36.1,R
+3795108,UEFA Euro,2020,5,121,True,1.0,Switzerland,Mario Gavranović,5834.0,Right Foot,Goal,36.6,R
+3795108,UEFA Euro,2020,5,121,True,2.0,Spain,Daniel Olmo Carvajal,16532.0,Right Foot,Goal,36.6,R
+3795108,UEFA Euro,2020,5,122,True,2.0,Switzerland,Fabian Lukas Schär,5537.0,Right Foot,Saved,37.3,R
+3795108,UEFA Euro,2020,5,123,True,3.0,Spain,Rodrigo Hernández Cascante,6765.0,Right Foot,Saved,42.4,L
+3795108,UEFA Euro,2020,5,124,True,3.0,Switzerland,Manuel Obafemi Akanji,5549.0,Right Foot,Saved,37.4,R
+3795108,UEFA Euro,2020,5,125,True,4.0,Spain,Gerard Moreno Balaguero,6766.0,Left Foot,Goal,43.5,L
+3795108,UEFA Euro,2020,5,125,True,4.0,Switzerland,Ruben Vargas,30401.0,Right Foot,Off T,38.7,C
+3795108,UEFA Euro,2020,5,127,True,5.0,Spain,Mikel Oyarzabal Ugarte,6685.0,Left Foot,Goal,43.3,L
+3795107,UEFA Euro,2020,1,46,False,,Belgium,Romelu Lukaku Menama,3289.0,Left Foot,Goal,41.8,L
+3795220,UEFA Euro,2020,5,120,True,1.0,Italy,Manuel Locatelli,7038.0,Right Foot,Saved,37.4,R
+3795220,UEFA Euro,2020,5,120,True,1.0,Spain,Daniel Olmo Carvajal,16532.0,Right Foot,Off T,36.7,R
+3795220,UEFA Euro,2020,5,121,True,2.0,Italy,Andrea Belotti,7471.0,Right Foot,Goal,36.9,R
+3795220,UEFA Euro,2020,5,122,True,2.0,Spain,Gerard Moreno Balaguero,6766.0,Left Foot,Goal,42.8,L
+3795220,UEFA Euro,2020,5,123,True,3.0,Italy,Leonardo Bonucci,7173.0,Right Foot,Goal,42.9,L
+3795220,UEFA Euro,2020,5,123,True,3.0,Spain,Thiago Alcântara do Nascimento,5208.0,Right Foot,Goal,36.8,R
+3795220,UEFA Euro,2020,5,124,True,4.0,Italy,Federico Bernardeschi,7777.0,Left Foot,Goal,43.2,L
+3795220,UEFA Euro,2020,5,125,True,4.0,Spain,Álvaro Borja Morata Martín,3477.0,Right Foot,Saved,42.3,L
+3795220,UEFA Euro,2020,5,126,True,5.0,Italy,Jorge Luiz Frello Filho,7024.0,Right Foot,Goal,43.2,L
+3795506,UEFA Euro,2020,5,120,True,1.0,Italy,Domenico Berardi,7131.0,Left Foot,Goal,37.2,R
+3795506,UEFA Euro,2020,5,120,True,1.0,England,Harry Kane,10955.0,Right Foot,Goal,36.6,R
+3795506,UEFA Euro,2020,5,121,True,2.0,Italy,Andrea Belotti,7471.0,Right Foot,Saved,42.1,L
+3795506,UEFA Euro,2020,5,122,True,2.0,England,Harry Maguire,3336.0,Right Foot,Goal,43.2,L
+3795506,UEFA Euro,2020,5,123,True,3.0,Italy,Leonardo Bonucci,7173.0,Right Foot,Goal,37.6,R
+3795506,UEFA Euro,2020,5,124,True,3.0,England,Marcus Rashford,3318.0,Right Foot,Post,35.8,R
+3795506,UEFA Euro,2020,5,125,True,4.0,Italy,Federico Bernardeschi,7777.0,Left Foot,Goal,40.1,C
+3795506,UEFA Euro,2020,5,125,True,4.0,England,Jadon Sancho,12423.0,Right Foot,Saved,42.5,L
+3795506,UEFA Euro,2020,5,126,True,5.0,Italy,Jorge Luiz Frello Filho,7024.0,Right Foot,Saved to Post,37.9,R
+3795506,UEFA Euro,2020,5,127,True,5.0,England,Bukayo Saka,22084.0,Left Foot,Saved,42.0,L
+3788769,UEFA Euro,2020,2,69,False,,Russia,Artem Dzyuba,5195.0,Right Foot,Goal,40.3,C
+3788755,UEFA Euro,2020,2,60,False,,Wales,Gareth Frank Bale,6399.0,Left Foot,Off T,35.6,R
+3788762,UEFA Euro,2020,2,57,False,,Spain,Gerard Moreno Balaguero,6766.0,Left Foot,Post,36.0,R
+3795221,UEFA Euro,2020,3,103,False,,England,Harry Kane,10955.0,Right Foot,Saved,42.7,L
+3794691,UEFA Euro,2020,2,54,False,,Switzerland,Ricardo Iván Rodríguez Araya,5544.0,Left Foot,Saved,37.2,R
+3794691,UEFA Euro,2020,5,120,True,2.0,Switzerland,Mario Gavranović,5834.0,Right Foot,Goal,37.4,R
+3794691,UEFA Euro,2020,5,121,True,1.0,France,Paul Pogba,20004.0,Right Foot,Goal,36.7,R
+3794691,UEFA Euro,2020,5,122,True,3.0,Switzerland,Fabian Lukas Schär,5537.0,Right Foot,Goal,43.1,L
+3794691,UEFA Euro,2020,5,123,True,2.0,France,Olivier Giroud,3604.0,Left Foot,Goal,42.8,L
+3794691,UEFA Euro,2020,5,124,True,4.0,Switzerland,Manuel Obafemi Akanji,5549.0,Right Foot,Goal,36.4,R
+3794691,UEFA Euro,2020,5,125,True,3.0,France,Marcus Thuram,2972.0,Right Foot,Goal,36.6,R
+3794691,UEFA Euro,2020,5,125,True,5.0,Switzerland,Ruben Vargas,30401.0,Right Foot,Goal,37.1,R
+3794691,UEFA Euro,2020,5,126,True,4.0,France,Presnel Kimpembe,2999.0,Left Foot,Goal,43.2,L
+3794691,UEFA Euro,2020,5,127,True,6.0,Switzerland,Admir Mehmedi,8219.0,Right Foot,Goal,43.5,L
+3794691,UEFA Euro,2020,5,128,True,5.0,France,Kylian Mbappé Lottin,3009.0,Right Foot,Saved,37.6,R
+3788756,UEFA Euro,2020,1,10,False,,Netherlands,Memphis Depay,2988.0,Right Foot,Goal,37.1,R
+3788752,UEFA Euro,2020,2,86,False,,Portugal,Cristiano Ronaldo dos Santos Aveiro,5207.0,Right Foot,Goal,42.7,L
+3788742,UEFA Euro,2020,2,73,False,,Denmark,Pierre-Emile Højbjerg,3570.0,Right Foot,Saved,42.6,L
+3788775,UEFA Euro,2020,1,11,False,,Spain,Álvaro Borja Morata Martín,3477.0,Right Foot,Saved,38.0,R
+3773593,La Liga,2020/2021,1,34,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,37.0,R
+3773585,La Liga,2020/2021,2,62,False,,Real Madrid,Sergio Ramos García,5201.0,Right Foot,Goal,37.4,R
+3773587,La Liga,2020/2021,2,55,False,,Getafe,Jaime Mata Arnaiz,11550.0,Right Foot,Goal,36.6,R
+3773377,La Liga,2020/2021,1,48,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Saved,37.6,R
+3773695,La Liga,2020/2021,2,56,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Saved,37.4,R
+3773369,La Liga,2020/2021,1,48,False,,Huesca,Rafael Mir Vicente,23812.0,Right Foot,Goal,42.3,L
+3773661,La Liga,2020/2021,2,68,False,,Getafe,Enes Ünal,6760.0,Right Foot,Goal,36.7,R
+3773661,La Liga,2020/2021,2,92,False,,Barcelona,Antoine Griezmann,5487.0,Left Foot,Goal,43.3,L
+3773415,La Liga,2020/2021,1,31,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,37.0,R
+3773415,La Liga,2020/2021,2,88,False,,Cádiz,Alejandro Fernández Iglesias,23967.0,Right Foot,Goal,37.0,R
+3773477,La Liga,2020/2021,1,32,False,,Barcelona,Antoine Griezmann,5487.0,Left Foot,Saved,37.9,R
+3773477,La Liga,2020/2021,2,60,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,43.3,L
+69222,La Liga,2008/2009,2,80,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Saved,37.9,R
+69225,La Liga,2008/2009,2,69,False,,Barcelona,Samuel Eto''o Fils,19298.0,Right Foot,Saved,43.4,L
+69211,La Liga,2008/2009,2,98,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,42.5,L
+69212,La Liga,2008/2009,1,5,False,,Barcelona,Samuel Eto''o Fils,19298.0,Right Foot,Goal,36.4,R
+69216,La Liga,2008/2009,1,31,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,37.3,R
+69209,La Liga,2008/2009,2,55,False,,Racing Santander,Nikola Žigić,26074.0,Right Foot,Goal,36.7,R
+69217,La Liga,2008/2009,2,77,False,,Villarreal,Matías Ariel Fernández Fernández,26192.0,Right Foot,Goal,36.0,R
+69195,La Liga,2008/2009,1,47,False,,Barcelona,Samuel Eto''o Fils,19298.0,Right Foot,Saved,37.4,R
+69185,La Liga,2008/2009,2,78,False,,Atlético Madrid,Diego Forlán Corazo,26199.0,Right Foot,Goal,36.7,R
+69215,La Liga,2008/2009,2,70,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,37.2,R
+69183,La Liga,2008/2009,2,86,False,,Barcelona,Samuel Eto''o Fils,19298.0,Right Foot,Goal,36.5,R
+2302764,Champions League,2004/2005,2,59,False,,Liverpool,Xabier Alonso Olano,20133.0,Right Foot,Saved,37.4,R
+2302764,Champions League,2004/2005,5,120,True,1.0,AC Milan,Claudio Santos,34385.0,Left Foot,Off T,36.4,R
+2302764,Champions League,2004/2005,5,120,True,2.0,Liverpool,Dietmar Hamann,18103.0,Right Foot,Goal,36.6,R
+2302764,Champions League,2004/2005,5,121,True,2.0,AC Milan,Andrea Pirlo,19849.0,Right Foot,Saved,37.7,R
+2302764,Champions League,2004/2005,5,122,True,3.0,Liverpool,Djibril Cissé,34384.0,Right Foot,Goal,42.3,L
+2302764,Champions League,2004/2005,5,123,True,3.0,AC Milan,Jon Dahl Tomasson,15526.0,Right Foot,Goal,37.9,R
+2302764,Champions League,2004/2005,5,124,True,4.0,Liverpool,John Arne Semundseth Riise,34386.0,Left Foot,Saved,37.0,R
+2302764,Champions League,2004/2005,5,125,True,4.0,AC Milan,Ricardo Izecson dos Santos Leite,26712.0,Right Foot,Goal,37.9,R
+2302764,Champions League,2004/2005,5,125,True,5.0,Liverpool,Vladimir Smicer,15280.0,Right Foot,Goal,42.2,L
+267368,La Liga,2013/2014,1,14,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,38.4,R
+267368,La Liga,2013/2014,2,85,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Saved,42.3,L
+70302,La Liga,2013/2014,1,35,False,,Rayo Vallecano,Roberto Trashorras Gayoso,26848.0,Right Foot,Saved,36.9,R
+70277,La Liga,2013/2014,1,41,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,37.1,R
+70306,La Liga,2013/2014,2,76,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,37.3,R
+266613,La Liga,2013/2014,2,53,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,43.8,L
+265857,La Liga,2013/2014,2,54,False,,Real Madrid,Cristiano Ronaldo dos Santos Aveiro,5207.0,Right Foot,Goal,36.4,R
+265857,La Liga,2013/2014,2,64,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,43.3,L
+265857,La Liga,2013/2014,2,83,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,43.7,L
+266883,La Liga,2013/2014,2,91,False,,Real Betis,Jorge Molina Vidal,6630.0,Right Foot,Goal,36.6,R
+18237,Champions League,2011/2012,3,94,False,,Bayern Munich,Arjen Robben,8218.0,Left Foot,Saved,42.0,L
+18237,Champions League,2011/2012,5,120,True,2.0,Bayern Munich,Philipp Lahm,19295.0,Right Foot,Goal,43.4,L
+18237,Champions League,2011/2012,5,120,True,1.0,Chelsea,Juan Manuel Mata García,3294.0,Left Foot,Saved,41.3,C
+18237,Champions League,2011/2012,5,121,True,3.0,Bayern Munich,Mario Gómez García,5565.0,Right Foot,Goal,43.2,L
+18237,Champions League,2011/2012,5,122,True,2.0,Chelsea,David Luiz Moreira Marinho,3956.0,Right Foot,Goal,43.6,L
+18237,Champions League,2011/2012,5,123,True,4.0,Bayern Munich,Manuel Neuer,5570.0,Right Foot,Goal,36.6,R
+18237,Champions League,2011/2012,5,123,True,3.0,Chelsea,Frank Lampard,20330.0,Right Foot,Goal,40.1,C
+18237,Champions League,2011/2012,5,124,True,5.0,Bayern Munich,Ivica Olić,19289.0,Left Foot,Saved,42.6,L
+18237,Champions League,2011/2012,5,125,True,4.0,Chelsea,Ashley Cole,12529.0,Left Foot,Goal,43.8,L
+18237,Champions League,2011/2012,5,126,True,6.0,Bayern Munich,Bastian Schweinsteiger,18414.0,Right Foot,Saved,43.2,L
+18237,Champions League,2011/2012,5,127,True,5.0,Chelsea,Didier Yves Drogba Tébily,20352.0,Right Foot,Goal,36.8,R
+3888720,FIFA World Cup,1974,1,1,False,,Netherlands,Johan Neeskens,39721.0,Right Foot,Goal,40.4,C
+3888720,FIFA World Cup,1974,1,25,False,,Germany,Paul Breitner,38610.0,Right Foot,Goal,36.9,R
+3825908,La Liga,2015/2016,2,56,False,,Eibar,Borja González Tomás,6566.0,Right Foot,Goal,37.6,R
+3825883,La Liga,2015/2016,1,45,False,,Málaga,Charles Días Barbosa de Oliveira,6707.0,Right Foot,Goal,36.9,R
+3825902,La Liga,2015/2016,2,59,False,,Levante UD,José Antonio García Rabasco,24149.0,Right Foot,Goal,36.9,R
+3825876,La Liga,2015/2016,2,72,False,,Real Betis,Rubén Castro Martín,6832.0,Right Foot,Goal,43.8,L
+3825777,La Liga,2015/2016,1,42,False,,Levante UD,Giuseppe Rossi,7141.0,Left Foot,Goal,36.6,R
+3825896,La Liga,2015/2016,1,34,False,,Granada,Youssef El-Arabi,27109.0,Right Foot,Goal,37.0,R
+3825896,La Liga,2015/2016,2,84,False,,Granada,Youssef El-Arabi,27109.0,Right Foot,Goal,43.8,L
+3825841,La Liga,2015/2016,2,55,False,,Getafe,Álvaro Vázquez García,24035.0,Right Foot,Goal,40.5,C
+3825840,La Liga,2015/2016,1,9,False,,Valencia,Francisco Alcácer García,6402.0,Right Foot,Saved,37.0,R
+3825823,La Liga,2015/2016,2,50,False,,Sevilla,Kevin Gameiro,6401.0,Right Foot,Goal,37.0,R
+3825905,La Liga,2015/2016,1,44,False,,Málaga,Duje Čop,8419.0,Right Foot,Goal,43.1,L
+3825822,La Liga,2015/2016,2,49,False,,Las Palmas,Jonathan Viera Ramos,10755.0,Right Foot,Goal,42.4,L
+3825820,La Liga,2015/2016,1,26,False,,Sevilla,Kevin Gameiro,6401.0,Right Foot,Saved,38.2,R
+3825820,La Liga,2015/2016,2,57,False,,Real Madrid,Cristiano Ronaldo dos Santos Aveiro,5207.0,Right Foot,Off T,40.5,C
+3825818,La Liga,2015/2016,1,12,False,,Las Palmas,Jonathan Viera Ramos,10755.0,Right Foot,Saved,37.6,R
+3825887,La Liga,2015/2016,2,53,False,,Granada,Youssef El-Arabi,27109.0,Right Foot,Goal,36.7,R
+3825757,La Liga,2015/2016,1,11,False,,Real Madrid,Cristiano Ronaldo dos Santos Aveiro,5207.0,Right Foot,Goal,36.8,R
+3825641,La Liga,2015/2016,1,41,False,,Athletic Club,Aritz Aduriz Zubeldia,6394.0,Right Foot,Saved,42.4,L
+3825803,La Liga,2015/2016,2,71,False,,Granada,Youssef El-Arabi,27109.0,Right Foot,Goal,42.7,L
+3825798,La Liga,2015/2016,1,33,False,,Real Madrid,Cristiano Ronaldo dos Santos Aveiro,5207.0,Right Foot,Goal,36.5,R
+3825796,La Liga,2015/2016,1,27,False,,Las Palmas,Jonathan Viera Ramos,10755.0,Right Foot,Goal,43.0,L
+3825795,La Liga,2015/2016,2,60,False,,Atlético Madrid,Antoine Griezmann,5487.0,Left Foot,Goal,43.3,L
+3825792,La Liga,2015/2016,1,23,False,,Granada,Youssef El-Arabi,27109.0,Right Foot,Goal,43.6,L
+3825785,La Liga,2015/2016,1,35,False,,Real Madrid,Cristiano Ronaldo dos Santos Aveiro,5207.0,Right Foot,Saved,42.4,L
+3825779,La Liga,2015/2016,2,83,False,,Eibar,Saúl Berjón Pérez,24070.0,Right Foot,Goal,37.9,R
+3825678,La Liga,2015/2016,2,81,False,,Real Madrid,Cristiano Ronaldo dos Santos Aveiro,5207.0,Right Foot,Goal,41.7,L
+3825638,La Liga,2015/2016,2,71,False,,Valencia,Francisco Alcácer García,6402.0,Right Foot,Goal,37.2,R
+3825595,La Liga,2015/2016,1,42,False,,Villarreal,Bruno Soriano Llido,22819.0,Left Foot,Goal,36.8,R
+3825572,La Liga,2015/2016,2,60,False,,Real Betis,Rubén Castro Martín,6832.0,Right Foot,Saved,42.4,L
+3825707,La Liga,2015/2016,2,79,False,,Las Palmas,Jonathan Viera Ramos,10755.0,Right Foot,Goal,38.5,C
+3825700,La Liga,2015/2016,1,29,False,,Real Madrid,Cristiano Ronaldo dos Santos Aveiro,5207.0,Right Foot,Goal,36.6,R
+3825698,La Liga,2015/2016,1,40,False,,RC Deportivo La Coruña,Lucas Pérez Martínez,6732.0,Left Foot,Goal,41.9,L
+3825694,La Liga,2015/2016,2,65,False,,Eibar,Saúl Berjón Pérez,24070.0,Right Foot,Saved,37.1,R
+3825692,La Liga,2015/2016,2,74,False,,Sevilla,Kevin Gameiro,6401.0,Right Foot,Goal,37.9,R
+3825675,La Liga,2015/2016,1,23,False,,Athletic Club,Aritz Aduriz Zubeldia,6394.0,Right Foot,Goal,40.2,C
+3825669,La Liga,2015/2016,2,72,False,,Rayo Vallecano,Roberto Trashorras Gayoso,26848.0,Right Foot,Saved,39.2,C
+3825668,La Liga,2015/2016,2,62,False,,Sporting Gijón,Jonathan Rodríguez Menéndez,6581.0,Left Foot,Saved,37.6,R
+3825667,La Liga,2015/2016,1,41,False,,Eibar,Daniel García Carrillo,6775.0,Right Foot,Saved,37.8,R
+3825662,La Liga,2015/2016,1,25,False,,Celta Vigo,Manuel Agudo Durán,6724.0,Right Foot,Saved,36.9,R
+3825660,La Liga,2015/2016,2,69,False,,Barcelona,Luis Alberto Suárez Díaz,5246.0,Right Foot,Goal,36.8,R
+3825623,La Liga,2015/2016,1,38,False,,Málaga,Sérgio Paulo Barbosa Valente,25859.0,Left Foot,Saved,42.4,L
+3825623,La Liga,2015/2016,2,87,False,,Valencia,Daniel Parejo Muñoz,6595.0,Right Foot,Goal,39.5,C
+3825601,La Liga,2015/2016,1,39,False,,Rayo Vallecano,Roberto Trashorras Gayoso,26848.0,Right Foot,Goal,37.3,R
+3825647,La Liga,2015/2016,2,63,False,,Valencia,Francisco Alcácer García,6402.0,Right Foot,Goal,37.0,R
+3825877,La Liga,2015/2016,1,44,False,,Athletic Club,Aritz Aduriz Zubeldia,6394.0,Right Foot,Post,36.0,R
+3825874,La Liga,2015/2016,2,49,False,,Sevilla,Éver Maximiliano David Banega,5504.0,Right Foot,Goal,38.0,R
+3825874,La Liga,2015/2016,2,59,False,,Sevilla,Kevin Gameiro,6401.0,Right Foot,Goal,37.3,R
+3825874,La Liga,2015/2016,2,80,False,,Sevilla,Yevhen Konoplyanka,8523.0,Right Foot,Goal,37.1,R
+3825870,La Liga,2015/2016,1,37,False,,Athletic Club,Aritz Aduriz Zubeldia,6394.0,Right Foot,Goal,43.7,L
+3825868,La Liga,2015/2016,1,15,False,,Celta Vigo,Iago Aspas Juncal,5217.0,Left Foot,Goal,41.9,L
+3825853,La Liga,2015/2016,2,85,False,,Granada,Youssef El-Arabi,27109.0,Right Foot,Goal,42.7,L
+3825653,La Liga,2015/2016,2,60,False,,Eibar,Saúl Berjón Pérez,24070.0,Right Foot,Goal,37.4,R
+3825650,La Liga,2015/2016,2,66,False,,Real Betis,Rubén Castro Martín,6832.0,Right Foot,Goal,38.8,C
+3825755,La Liga,2015/2016,2,49,False,,Sporting Gijón,Arnaldo Antonio Sanabria Ayala,6880.0,Right Foot,Goal,43.3,L
+3825754,La Liga,2015/2016,1,32,False,,Las Palmas,Jonathan Viera Ramos,10755.0,Right Foot,Goal,43.4,L
+3825753,La Liga,2015/2016,2,54,False,,Villarreal,Bruno Soriano Llido,22819.0,Left Foot,Goal,43.2,L
+3825747,La Liga,2015/2016,2,49,False,,Eibar,Borja González Tomás,6566.0,Right Foot,Goal,36.9,R
+3825734,La Liga,2015/2016,2,74,False,,Real Sociedad,Xabier Prieto Argarate,6690.0,Right Foot,Goal,39.8,C
+3825727,La Liga,2015/2016,2,73,False,,Eibar,Borja González Tomás,6566.0,Right Foot,Goal,39.3,C
+3825726,La Liga,2015/2016,2,58,False,,Sevilla,Kevin Gameiro,6401.0,Right Foot,Goal,37.5,R
+3825722,La Liga,2015/2016,2,57,False,,Getafe,Pedro León Sánchez Gil,6907.0,Right Foot,Post,36.0,R
+3825719,La Liga,2015/2016,1,16,False,,Athletic Club,Aritz Aduriz Zubeldia,6394.0,Right Foot,Goal,36.6,R
+3825721,La Liga,2015/2016,2,94,False,,Villarreal,Bruno Soriano Llido,22819.0,Left Foot,Goal,37.8,R
+3825718,La Liga,2015/2016,1,45,False,,Valencia,Daniel Parejo Muñoz,6595.0,Right Foot,Goal,43.4,L
+3825715,La Liga,2015/2016,2,65,False,,Málaga,Nordin Amrabat,3302.0,Right Foot,Saved,42.0,L
+3825710,La Liga,2015/2016,1,23,False,,Real Madrid,Cristiano Ronaldo dos Santos Aveiro,5207.0,Right Foot,Off T,41.5,C
+3825710,La Liga,2015/2016,1,41,False,,Real Madrid,Cristiano Ronaldo dos Santos Aveiro,5207.0,Right Foot,Goal,43.8,L
+3825634,La Liga,2015/2016,1,39,False,,Real Betis,Rubén Castro Martín,6832.0,Right Foot,Goal,37.1,R
+3825633,La Liga,2015/2016,1,35,False,,Rayo Vallecano,Roberto Trashorras Gayoso,26848.0,Right Foot,Goal,36.5,R
+3825633,La Liga,2015/2016,2,92,False,,Espanyol,Jorge Franco Alviz,6624.0,Right Foot,Saved,42.7,L
+3825627,La Liga,2015/2016,1,21,False,,Barcelona,Neymar da Silva Santos Junior,4320.0,Right Foot,Goal,37.5,R
+3825627,La Liga,2015/2016,1,31,False,,Barcelona,Neymar da Silva Santos Junior,4320.0,Right Foot,Goal,42.6,L
+3825621,La Liga,2015/2016,1,21,False,,Atlético Madrid,Antoine Griezmann,5487.0,Left Foot,Saved,41.7,L
+3825617,La Liga,2015/2016,2,73,False,,Barcelona,Neymar da Silva Santos Junior,4320.0,Right Foot,Goal,36.9,R
+3825615,La Liga,2015/2016,1,29,False,,Espanyol,Felipe Salvador Caicedo Corozo,7781.0,Left Foot,Saved,42.6,L
+3825592,La Liga,2015/2016,1,43,False,,Espanyol,Gerard Moreno Balaguero,6766.0,Left Foot,Goal,43.2,L
+3825585,La Liga,2015/2016,1,12,False,,Celta Vigo,Fabián Ariel Orellana Valenzuela,7105.0,Right Foot,Goal,43.2,L
+3825581,La Liga,2015/2016,1,16,False,,Real Madrid,Cristiano Ronaldo dos Santos Aveiro,5207.0,Right Foot,Goal,43.3,L
+3825578,La Liga,2015/2016,1,33,False,,Eibar,Saúl Berjón Pérez,24070.0,Right Foot,Goal,40.1,C
+3825577,La Liga,2015/2016,1,25,False,,Granada,Youssef El-Arabi,27109.0,Right Foot,Goal,43.5,L
+3825574,La Liga,2015/2016,1,10,False,,Celta Vigo,Manuel Agudo Durán,6724.0,Right Foot,Goal,38.3,R
+266498,La Liga,2015/2016,1,10,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Saved,42.3,L
+266653,La Liga,2015/2016,2,68,False,,Barcelona,Luis Alberto Suárez Díaz,5246.0,Right Foot,Saved,38.8,C
+265944,La Liga,2015/2016,2,73,False,,Barcelona,Luis Alberto Suárez Díaz,5246.0,Right Foot,Goal,43.2,L
+265944,La Liga,2015/2016,2,76,False,,Barcelona,Luis Alberto Suárez Díaz,5246.0,Right Foot,Goal,39.3,C
+265944,La Liga,2015/2016,2,85,False,,Barcelona,Neymar da Silva Santos Junior,4320.0,Right Foot,Goal,38.6,C
+267611,La Liga,2015/2016,2,66,False,,Barcelona,Neymar da Silva Santos Junior,4320.0,Right Foot,Off T,40.2,C
+266236,La Liga,2015/2016,1,30,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Saved,36.8,R
+266815,La Liga,2015/2016,2,61,False,,Barcelona,Luis Alberto Suárez Díaz,5246.0,Right Foot,Saved,37.1,R
+266106,La Liga,2015/2016,1,40,False,,Barcelona,Neymar da Silva Santos Junior,4320.0,Right Foot,Goal,37.5,R
+266149,La Liga,2015/2016,1,6,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,43.7,L
+266056,La Liga,2015/2016,2,75,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,40.1,C
+267327,La Liga,2015/2016,1,28,False,,Barcelona,Neymar da Silva Santos Junior,4320.0,Right Foot,Post,42.5,L
+266490,La Liga,2015/2016,2,60,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,41.9,L
+266490,La Liga,2015/2016,2,75,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Off T,41.1,C
+266254,La Liga,2015/2016,1,38,False,,Celta Vigo,John Guidetti,6038.0,Right Foot,Goal,37.3,R
+266254,La Liga,2015/2016,2,80,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Wayward,43.2,L
+3890563,1. Bundesliga,2015/2016,2,68,False,,Ingolstadt,Moritz Hartmann,40464.0,Right Foot,Goal,36.9,R
+3890534,1. Bundesliga,2015/2016,1,4,False,,Schalke 04,Klaas-Jan Huntelaar,8060.0,Right Foot,Saved,37.9,R
+3890477,1. Bundesliga,2015/2016,2,92,False,,Bayer Leverkusen,Hakan Çalhanoğlu,7039.0,Right Foot,Goal,42.8,L
+3890472,1. Bundesliga,2015/2016,2,64,False,,Werder Bremen,Claudio Miguel Pizarro Bossio,11132.0,Right Foot,Goal,43.6,L
+3890463,1. Bundesliga,2015/2016,2,57,False,,FSV Mainz 05,Yunus Mallı,8679.0,Right Foot,Goal,36.5,R
+3890427,1. Bundesliga,2015/2016,2,62,False,,Bayer Leverkusen,Javier Hernández Balcázar,3058.0,Right Foot,Goal,43.4,L
+3890330,1. Bundesliga,2015/2016,2,70,False,,Bayer Leverkusen,Hakan Çalhanoğlu,7039.0,Right Foot,Off T,40.1,C
+3890301,1. Bundesliga,2015/2016,2,73,False,,Borussia Dortmund,Pierre-Emerick Aubameyang,3712.0,Right Foot,Goal,36.8,R
+3890278,1. Bundesliga,2015/2016,2,59,False,,Bayern Munich,Thomas Müller,5562.0,Right Foot,Goal,40.3,C
+3890278,1. Bundesliga,2015/2016,2,70,False,,Bayern Munich,Arjen Robben,8218.0,Left Foot,Goal,36.7,R
+69151,La Liga,2007/2008,2,71,False,,Levante UD,Emilio José Viqueira Moure,26399.0,Right Foot,Goal,43.5,L
+69169,La Liga,2007/2008,1,34,False,,Barcelona,Ronaldo de Assis Moreira,25879.0,Right Foot,Goal,36.4,R
+68360,La Liga,2007/2008,1,40,False,,Levante UD,Rahamat Riga Mustapha,26181.0,Right Foot,Goal,36.8,R
+69186,La Liga,2007/2008,2,80,False,,Real Murcia CF,Iván Daniel Alonso Vallejo,26243.0,Left Foot,Goal,41.5,C
+68365,La Liga,2007/2008,2,61,False,,Atlético Madrid,Diego Forlán Corazo,26199.0,Right Foot,Goal,41.8,L
+68364,La Liga,2007/2008,1,12,False,,Villarreal,Marcos Antonio Senna da Silva,20135.0,Right Foot,Goal,41.8,L
+68364,La Liga,2007/2008,1,34,False,,Villarreal,Marcos Antonio Senna da Silva,20135.0,Right Foot,Goal,40.2,C
+69170,La Liga,2007/2008,1,40,False,,Barcelona,Ronaldo de Assis Moreira,25879.0,Right Foot,Goal,43.5,L
+69158,La Liga,2007/2008,2,80,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,41.8,L
+69148,La Liga,2007/2008,2,79,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,43.3,L
+69184,La Liga,2007/2008,2,81,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,37.4,R
+69182,La Liga,2007/2008,1,42,False,,Real Zaragoza,Diego Alberto Milito,19294.0,Right Foot,Off T,39.0,C
+69182,La Liga,2007/2008,2,82,False,,Barcelona,Ronaldo de Assis Moreira,25879.0,Right Foot,Goal,43.6,L
+68361,La Liga,2007/2008,2,77,False,,Real Madrid,Ruud van Nistelrooy,19729.0,Right Foot,Goal,43.6,L
+69141,La Liga,2007/2008,1,5,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,41.8,L
+18243,Champions League,2015/2016,2,47,False,,Atlético Madrid,Antoine Griezmann,5487.0,Left Foot,Post,40.3,C
+18243,Champions League,2015/2016,5,120,True,1.0,Real Madrid,Lucas Vázquez Iglesias,5200.0,Right Foot,Goal,42.8,L
+18243,Champions League,2015/2016,5,120,True,2.0,Atlético Madrid,Antoine Griezmann,5487.0,Left Foot,Goal,38.0,R
+18243,Champions League,2015/2016,5,121,True,2.0,Real Madrid,Marcelo Vieira da Silva Júnior,5552.0,Left Foot,Goal,43.6,L
+18243,Champions League,2015/2016,5,121,True,3.0,Atlético Madrid,Gabriel Fernández Arenas,6384.0,Right Foot,Goal,36.8,R
+18243,Champions League,2015/2016,5,122,True,3.0,Real Madrid,Gareth Frank Bale,6399.0,Left Foot,Goal,43.6,L
+18243,Champions League,2015/2016,5,123,True,4.0,Atlético Madrid,Saúl Ñíguez Esclapez,6381.0,Left Foot,Goal,36.8,R
+18243,Champions League,2015/2016,5,124,True,4.0,Real Madrid,Sergio Ramos García,5201.0,Right Foot,Goal,43.4,L
+18243,Champions League,2015/2016,5,124,True,5.0,Atlético Madrid,Juan Francisco Torres Belén,6375.0,Right Foot,Post,36.0,R
+18243,Champions League,2015/2016,5,125,True,5.0,Real Madrid,Cristiano Ronaldo dos Santos Aveiro,5207.0,Right Foot,Goal,42.6,L
+3813314,Indian Super league,2021/2022,1,26,False,,Mohun Bagan Super Giant,Roy Krishna,163344.0,Right Foot,Goal,41.8,L
+3827767,Indian Super league,2021/2022,5,120,True,1.0,Kerala Blasters,Marko Lešković,20837.0,Right Foot,Saved,38.1,R
+3827767,Indian Super league,2021/2022,5,121,True,1.0,Hyderabad,João Victor de Albuquerque Bruno,26675.0,Right Foot,Goal,37.4,R
+3827767,Indian Super league,2021/2022,5,124,True,2.0,Kerala Blasters,Nishu Kumar Tashni,127056.0,Right Foot,Saved,37.8,R
+3827767,Indian Super league,2021/2022,5,124,True,2.0,Hyderabad,Javier Siverio Toro,41858.0,Right Foot,Off T,38.1,R
+3827767,Indian Super league,2021/2022,5,125,True,3.0,Kerala Blasters,Ayush Adhikari,163358.0,Right Foot,Goal,43.4,L
+3827767,Indian Super league,2021/2022,5,126,True,3.0,Hyderabad,Khassa Camara,32394.0,Right Foot,Goal,42.9,L
+3827767,Indian Super league,2021/2022,5,128,True,4.0,Kerala Blasters,Jeakson Singh Thaunaojam,163355.0,Right Foot,Saved,43.2,L
+3827767,Indian Super league,2021/2022,5,128,True,4.0,Hyderabad,Halicharan Narzary,164489.0,Left Foot,Goal,38.8,C
+3817870,Indian Super league,2021/2022,1,24,False,,Kerala Blasters,Jorge Rolando Pereyra Díaz,28251.0,Right Foot,Goal,36.7,R
+3817870,Indian Super league,2021/2022,2,62,False,,Goa,Airam López Cabrera,13607.0,Left Foot,Goal,43.7,L
+3817866,Indian Super league,2021/2022,1,46,False,,Kerala Blasters,Álvaro Vázquez García,24035.0,Right Foot,Goal,38.0,R
+3817866,Indian Super league,2021/2022,2,70,False,,Mumbai City,Diego Maurício Machado de Brito,192018.0,Right Foot,Goal,36.8,R
+3817872,Indian Super league,2021/2022,2,48,False,,Bengaluru,Cleiton Augusto Oliveira Silva,162209.0,Right Foot,Goal,36.5,R
+3817901,Indian Super league,2021/2022,2,70,False,,Mumbai City,Igor Angulo Albóniga,8038.0,Left Foot,Saved,40.6,C
+3817901,Indian Super league,2021/2022,2,85,False,,Mumbai City,Diego Maurício Machado de Brito,192018.0,Right Foot,Goal,40.1,C
+3817901,Indian Super league,2021/2022,2,93,False,,Jamshedpur,Greg Stewart,13322.0,Left Foot,Goal,43.4,L
+3817881,Indian Super league,2021/2022,1,44,False,,Jamshedpur,Greg Stewart,13322.0,Left Foot,Goal,43.1,L
+3817881,Indian Super league,2021/2022,2,47,False,,Jamshedpur,Greg Stewart,13322.0,Left Foot,Goal,40.5,C
+3817894,Indian Super league,2021/2022,2,60,False,,Odisha,Jonathas Cristian de Jesus,8584.0,Right Foot,Goal,37.1,R
+3817888,Indian Super league,2021/2022,2,65,False,,Mohun Bagan Super Giant,David Joel Williams,163345.0,Right Foot,Off T,38.0,R
+3817868,Indian Super league,2021/2022,1,11,False,,Bengaluru,Iman Basafa,162205.0,Right Foot,Goal,37.1,R
+3817867,Indian Super league,2021/2022,1,29,False,,Mumbai City,Ahmed Jahouh,159771.0,Right Foot,Goal,37.0,R
+3817898,Indian Super league,2021/2022,1,17,False,,Goa,Airam López Cabrera,13607.0,Left Foot,Saved,38.4,R
+3817893,Indian Super league,2021/2022,2,54,False,,East Bengal,Antonio Perošević,161111.0,Left Foot,Goal,36.6,R
+3817892,Indian Super league,2021/2022,1,7,False,,ATK Mohun Bagan,Joni Ensio Kauko,24303.0,Right Foot,Goal,43.2,L
+3817892,Indian Super league,2021/2022,1,23,False,,Odisha,Francisco Javier Hernández González,8150.0,Left Foot,Saved,42.6,L
+3817878,Indian Super league,2021/2022,2,84,False,,East Bengal,Franjo Prce,32945.0,Left Foot,Saved,37.4,R
+3813283,Indian Super league,2021/2022,1,38,False,,Bengaluru,Cleiton Augusto Oliveira Silva,162209.0,Right Foot,Goal,43.4,L
+3813295,Indian Super league,2021/2022,2,85,False,,Hyderabad,João Victor de Albuquerque Bruno,26675.0,Right Foot,Goal,36.7,R
+3813282,Indian Super league,2021/2022,2,50,False,,Kerala Blasters,Jorge Rolando Pereyra Díaz,28251.0,Right Foot,Goal,43.7,L
+3813287,Indian Super league,2021/2022,1,17,False,,Bengaluru,Cleiton Augusto Oliveira Silva,162209.0,Right Foot,Goal,43.2,L
+3813287,Indian Super league,2021/2022,2,57,False,,ATK Mohun Bagan,Roy Krishna,163344.0,Right Foot,Goal,42.6,L
+3813270,Indian Super league,2021/2022,1,32,False,,Mumbai City,Igor Angulo Albóniga,8038.0,Left Foot,Goal,43.4,L
+3813279,Indian Super league,2021/2022,2,84,False,,Chennaiyin,Łukasz Gikiewicz,164476.0,Right Foot,Saved,42.1,L
+3813274,Indian Super league,2021/2022,1,8,False,,Mumbai City,Igor Angulo Albóniga,8038.0,Left Foot,Goal,43.0,L
+3813274,Indian Super league,2021/2022,1,43,False,,Bengaluru,Sunil Chhetri,124748.0,Right Foot,Saved,36.8,R
+3813317,Indian Super league,2021/2022,2,90,False,,East Bengal,Daniel Chima Chukwu,161091.0,Right Foot,Goal,36.4,R
+3813309,Indian Super league,2021/2022,2,65,False,,Chennaiyin,Vladimir Koman Jr.,51364.0,Right Foot,Goal,43.2,L
+3813289,Indian Super league,2021/2022,2,61,False,,Bengaluru,Sunil Chhetri,124748.0,Right Foot,Saved,36.9,R
+3813277,Indian Super league,2021/2022,1,12,False,,Hyderabad,João Victor de Albuquerque Bruno,26675.0,Right Foot,Goal,36.8,R
+3813267,Indian Super league,2021/2022,1,31,False,,Goa,Jorge Ortiz Mendoza,159764.0,Right Foot,Goal,43.1,L
+3838017,Ligue 1,2022/2023,1,20,False,,Paris Saint-Germain,Kylian Mbappé Lottin,3009.0,Right Foot,Goal,42.7,L
+3838017,Ligue 1,2022/2023,1,36,False,,Clermont Foot,Grejohn Kyei,7367.0,Right Foot,Off T,34.6,R
+3837928,Ligue 1,2022/2023,1,38,False,,Lyon,Alexandre Lacazette,3451.0,Right Foot,Post,36.0,R
+3837876,Ligue 1,2022/2023,2,57,False,,Lille,Jonathan David,23640.0,Right Foot,Goal,43.5,L
+3837680,Ligue 1,2022/2023,2,69,False,,Paris Saint-Germain,Neymar da Silva Santos Junior,4320.0,Right Foot,Goal,36.9,R
+3837659,Ligue 1,2022/2023,1,23,False,,Paris Saint-Germain,Kylian Mbappé Lottin,3009.0,Right Foot,Saved,43.2,L
+3837659,Ligue 1,2022/2023,1,42,False,,Paris Saint-Germain,Neymar da Silva Santos Junior,4320.0,Right Foot,Goal,37.3,R
+3837947,Ligue 1,2022/2023,2,59,False,,Lens,Przemysław Frankowski,7979.0,Right Foot,Goal,36.8,R
+3837844,Ligue 1,2022/2023,1,9,False,,Paris Saint-Germain,Kylian Mbappé Lottin,3009.0,Right Foot,Saved to Post,42.1,L
+3837771,Ligue 1,2022/2023,2,76,False,,Paris Saint-Germain,Kylian Mbappé Lottin,3009.0,Right Foot,Goal,36.7,R
+3837706,Ligue 1,2022/2023,2,69,False,,Stade Brestois,Islam Slimani,3811.0,Right Foot,Saved,42.2,L
+3887188,UEFA Europa League,1988/1989,2,68,False,,Napoli,Diego Armando Maradona,38641.0,Left Foot,Goal,37.4,R
+3750245,UEFA Europa League,1988/1989,1,9,False,,Napoli,Diego Armando Maradona,38641.0,Left Foot,Goal,43.3,L
+3939980,Copa America,2024,1,48,False,,Ecuador,Ray Kendry Páez Andrade,384888.0,Left Foot,Goal,43.2,L
+3939986,Copa America,2024,2,71,False,,Argentina,Leandro Daniel Paredes,16308.0,Right Foot,Post,44.0,L
+3939979,Copa America,2024,2,56,False,,Venezuela,José Salomón Rondón Giménez,4041.0,Right Foot,Goal,37.1,R
+3939979,Copa America,2024,2,86,False,,Mexico,Orbelín Pineda Alvarado,26280.0,Right Foot,Saved,37.1,R
+3939983,Copa America,2024,1,30,False,,Brazil,Lucas Tolentino Coelho de Lima,22600.0,Left Foot,Off T,45.0,L
+3939983,Copa America,2024,2,64,False,,Brazil,Lucas Tolentino Coelho de Lima,22600.0,Left Foot,Goal,43.4,L
+3942416,Copa America,2024,1,14,False,,Colombia,James David Rodríguez Rubio,5695.0,Left Foot,Goal,42.8,L
+3942416,Copa America,2024,2,93,False,,Colombia,Miguel Ángel Borja Hernández,6333.0,Right Foot,Goal,43.0,L
+3943076,Copa America,2024,5,120,True,1.0,Canada,Jonathan David,23640.0,Right Foot,Goal,37.0,R
+3943076,Copa America,2024,5,120,True,1.0,Uruguay,Federico Santiago Valverde Dipetta,6773.0,Right Foot,Goal,36.6,R
+3943076,Copa America,2024,5,122,True,2.0,Canada,Moise Bombito,383250.0,Right Foot,Goal,42.1,L
+3943076,Copa America,2024,5,123,True,2.0,Uruguay,Rodrigo Bentancur Colmán,5260.0,Right Foot,Goal,36.5,R
+3943076,Copa America,2024,5,124,True,3.0,Canada,Ismael Koné,133229.0,Right Foot,Saved,37.3,R
+3943076,Copa America,2024,5,124,True,3.0,Uruguay,Giorgian Daniel De Arrascaeta Benedetti,5258.0,Right Foot,Goal,40.7,C
+3943076,Copa America,2024,5,125,True,4.0,Canada,Mathieu Choiniere,18639.0,Right Foot,Goal,36.9,R
+3943076,Copa America,2024,5,126,True,4.0,Uruguay,Luis Alberto Suárez Díaz,5246.0,Right Foot,Goal,43.6,L
+3943076,Copa America,2024,5,127,True,5.0,Canada,Alphonso Davies,12365.0,Left Foot,Post,40.3,C
+3942415,Copa America,2024,5,120,True,1.0,Uruguay,Federico Santiago Valverde Dipetta,6773.0,Right Foot,Goal,36.8,R
+3942415,Copa America,2024,5,121,True,1.0,Brazil,Éder Gabriel Militão,13620.0,Right Foot,Saved,42.4,L
+3942415,Copa America,2024,5,122,True,2.0,Uruguay,Rodrigo Bentancur Colmán,5260.0,Right Foot,Goal,43.3,L
+3942415,Copa America,2024,5,123,True,2.0,Brazil,Andreas Hoelgebaum Pereira,6846.0,Right Foot,Goal,36.5,R
+3942415,Copa America,2024,5,124,True,3.0,Uruguay,Giorgian Daniel De Arrascaeta Benedetti,5258.0,Right Foot,Goal,38.2,R
+3942415,Copa America,2024,5,125,True,3.0,Brazil,Douglas Luiz Soares de Paulo,6574.0,Right Foot,Post,36.1,R
+3942415,Copa America,2024,5,125,True,4.0,Uruguay,José María Giménez de Vargas,5259.0,Right Foot,Saved,42.5,L
+3942415,Copa America,2024,5,126,True,4.0,Brazil,Gabriel Teodoro Martinelli Silva,29976.0,Right Foot,Goal,42.2,L
+3942415,Copa America,2024,5,127,True,5.0,Uruguay,Manuel Ugarte Ribeiro,36659.0,Right Foot,Goal,42.0,L
+3942229,Copa America,2024,5,120,True,1.0,Venezuela,José Salomón Rondón Giménez,4041.0,Right Foot,Goal,42.7,L
+3942229,Copa America,2024,5,120,True,1.0,Canada,Jonathan David,23640.0,Right Foot,Goal,43.4,L
+3942229,Copa America,2024,5,121,True,2.0,Venezuela,Yangel Clemente Herrera Ravelo,16249.0,Right Foot,Post,36.1,R
+3942229,Copa America,2024,5,122,True,2.0,Canada,Liam Millar,23363.0,Right Foot,Off T,42.5,L
+3942229,Copa America,2024,5,122,True,3.0,Venezuela,Tomás Eduardo Rincón Hernández,7475.0,Right Foot,Goal,38.9,C
+3942229,Copa America,2024,5,124,True,3.0,Canada,Moise Bombito,383250.0,Right Foot,Goal,42.6,L
+3942229,Copa America,2024,5,125,True,4.0,Venezuela,Jefferson David Savarino Quintero,13025.0,Right Foot,Saved to Post,37.5,R
+3942229,Copa America,2024,5,125,True,4.0,Canada,Stephen Antunes Eustáquio,11187.0,Right Foot,Saved,42.1,L
+3942229,Copa America,2024,5,126,True,5.0,Venezuela,Jhonder Leonel Cádiz Fernández,11162.0,Right Foot,Goal,42.5,L
+3942229,Copa America,2024,5,127,True,5.0,Canada,Alphonso Davies,12365.0,Left Foot,Goal,42.0,L
+3942229,Copa America,2024,5,128,True,6.0,Venezuela,Wilker José Ángel Romero,47822.0,Right Foot,Saved,42.6,L
+3942229,Copa America,2024,5,129,True,6.0,Canada,Ismael Koné,133229.0,Right Foot,Goal,38.1,R
+3942228,Copa America,2024,2,61,False,,Ecuador,Enner Remberto Valencia Lastra,28559.0,Right Foot,Post,36.1,R
+3942228,Copa America,2024,5,120,True,1.0,Argentina,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Post,39.2,C
+3942228,Copa America,2024,5,121,True,2.0,Ecuador,Ángel Israel Mena Delgado,28511.0,Left Foot,Saved,42.7,L
+3942228,Copa America,2024,5,122,True,2.0,Argentina,Julián Álvarez,29560.0,Right Foot,Goal,43.3,L
+3942228,Copa America,2024,5,123,True,3.0,Ecuador,Alan Steve Minda García,123625.0,Right Foot,Saved,37.9,R
+3942228,Copa America,2024,5,124,True,3.0,Argentina,Alexis Mac Allister,27886.0,Right Foot,Goal,43.6,L
+3942228,Copa America,2024,5,124,True,4.0,Ecuador,John Yeboah Zamora,21131.0,Left Foot,Goal,43.4,L
+3942228,Copa America,2024,5,125,True,4.0,Argentina,Gonzalo Ariel Montiel,28263.0,Right Foot,Goal,42.8,L
+3942228,Copa America,2024,5,126,True,5.0,Ecuador,Jordy Josué Caicedo Medina,123554.0,Right Foot,Goal,38.8,C
+3942228,Copa America,2024,5,127,True,5.0,Argentina,Nicolás Hernán Otamendi,3090.0,Right Foot,Goal,37.0,R
+3939984,Copa America,2024,1,30,False,,Colombia,Luis Fernando Díaz Marulanda,27158.0,Right Foot,Goal,43.4,L
+3857271,FIFA World Cup,2022,2,102,False,,Iran,Mehdi Taremi,5226.0,Right Foot,Goal,42.3,L
+3857298,FIFA World Cup,2022,2,64,False,,Portugal,Cristiano Ronaldo dos Santos Aveiro,5207.0,Right Foot,Goal,37.8,R
+3857282,FIFA World Cup,2022,2,81,False,,Wales,Gareth Frank Bale,6399.0,Left Foot,Goal,43.4,L
+3857297,FIFA World Cup,2022,1,45,False,,Saudi Arabia,Salem Mohammed Al Dawsari,5187.0,Right Foot,Saved,38.3,R
+3857284,FIFA World Cup,2022,1,32,False,,Germany,İlkay Gündoğan,10287.0,Right Foot,Goal,39.1,C
+3857265,FIFA World Cup,2022,2,57,False,,Poland,Robert Lewandowski,5668.0,Right Foot,Saved,42.9,L
+3857268,FIFA World Cup,2022,1,10,False,,Canada,Alphonso Davies,12365.0,Left Foot,Saved,38.0,R
+3869321,FIFA World Cup,2022,2,72,False,,Argentina,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,43.3,L
+3869321,FIFA World Cup,2022,5,120,True,1.0,Netherlands,Virgil van Dijk,3669.0,Right Foot,Saved,37.2,R
+3869321,FIFA World Cup,2022,5,121,True,2.0,Argentina,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,38.7,C
+3869321,FIFA World Cup,2022,5,121,True,2.0,Netherlands,Steven Berghuis,7745.0,Left Foot,Saved,42.9,L
+3869321,FIFA World Cup,2022,5,122,True,3.0,Argentina,Leandro Daniel Paredes,16308.0,Right Foot,Goal,36.6,R
+3869321,FIFA World Cup,2022,5,123,True,3.0,Netherlands,Teun Koopmeiners,7891.0,Left Foot,Goal,43.7,L
+3869321,FIFA World Cup,2022,5,124,True,4.0,Argentina,Gonzalo Ariel Montiel,28263.0,Right Foot,Goal,42.8,L
+3869321,FIFA World Cup,2022,5,124,True,4.0,Netherlands,Wout Weghorst,7829.0,Right Foot,Goal,36.7,R
+3869321,FIFA World Cup,2022,5,126,True,5.0,Argentina,Enzo Fernandez,38718.0,Right Foot,Off T,35.4,R
+3869321,FIFA World Cup,2022,5,126,True,5.0,Netherlands,Luuk de Jong,20033.0,Right Foot,Goal,37.7,R
+3869321,FIFA World Cup,2022,5,127,True,6.0,Argentina,Lautaro Javier Martínez,11456.0,Right Foot,Goal,36.4,R
+3869685,FIFA World Cup,2022,1,22,False,,Argentina,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,41.8,L
+3869685,FIFA World Cup,2022,2,79,False,,France,Kylian Mbappé Lottin,3009.0,Right Foot,Goal,37.3,R
+3869685,FIFA World Cup,2022,4,117,False,,France,Kylian Mbappé Lottin,3009.0,Right Foot,Goal,36.7,R
+3869685,FIFA World Cup,2022,5,120,True,3.0,France,Kylian Mbappé Lottin,3009.0,Right Foot,Goal,37.6,R
+3869685,FIFA World Cup,2022,5,121,True,2.0,Argentina,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,38.3,R
+3869685,FIFA World Cup,2022,5,121,True,4.0,France,Kingsley Coman,8217.0,Right Foot,Saved,38.2,R
+3869685,FIFA World Cup,2022,5,122,True,3.0,Argentina,Paulo Bruno Exequiel Dybala,5743.0,Left Foot,Goal,40.4,C
+3869685,FIFA World Cup,2022,5,123,True,5.0,France,Aurélien Djani Tchouaméni,10481.0,Right Foot,Off T,35.6,R
+3869685,FIFA World Cup,2022,5,124,True,4.0,Argentina,Leandro Daniel Paredes,16308.0,Right Foot,Goal,37.6,R
+3869685,FIFA World Cup,2022,5,125,True,6.0,France,Randal Kolo Muani,22097.0,Right Foot,Goal,39.3,C
+3869685,FIFA World Cup,2022,5,125,True,5.0,Argentina,Gonzalo Ariel Montiel,28263.0,Right Foot,Goal,37.9,R
+3857267,FIFA World Cup,2022,1,43,False,,Senegal,Ismaïla Sarr,2941.0,Right Foot,Goal,43.4,L
+3857264,FIFA World Cup,2022,1,38,False,,Argentina,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Saved,42.8,L
+3869519,FIFA World Cup,2022,1,33,False,,Argentina,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,42.3,L
+3869354,FIFA World Cup,2022,2,53,False,,England,Harry Kane,10955.0,Right Foot,Goal,36.4,R
+3869354,FIFA World Cup,2022,2,83,False,,England,Harry Kane,10955.0,Right Foot,Off T,38.7,C
+3869420,FIFA World Cup,2022,5,120,True,1.0,Croatia,Nikola Vlašić,3441.0,Right Foot,Goal,39.4,C
+3869420,FIFA World Cup,2022,5,120,True,1.0,Brazil,Rodrygo Silva de Goes,25104.0,Right Foot,Saved,41.9,L
+3869420,FIFA World Cup,2022,5,121,True,2.0,Croatia,Lovro Majer,28914.0,Left Foot,Goal,40.1,C
+3869420,FIFA World Cup,2022,5,122,True,2.0,Brazil,Carlos Henrique Casimiro,5539.0,Right Foot,Goal,36.5,R
+3869420,FIFA World Cup,2022,5,123,True,3.0,Croatia,Luka Modrić,5463.0,Right Foot,Goal,36.9,R
+3869420,FIFA World Cup,2022,5,123,True,3.0,Brazil,Pedro Guilherme Abreu dos Santos,25305.0,Right Foot,Goal,38.5,C
+3869420,FIFA World Cup,2022,5,124,True,4.0,Croatia,Mislav Oršić,16527.0,Right Foot,Goal,36.5,R
+3869420,FIFA World Cup,2022,5,125,True,4.0,Brazil,Marcos Aoás Corrêa,4372.0,Right Foot,Post,35.9,R
+3869220,FIFA World Cup,2022,5,120,True,1.0,Morocco,Abdelhamid Sabiri,3634.0,Right Foot,Goal,43.0,L
+3869220,FIFA World Cup,2022,5,121,True,1.0,Spain,Pablo Sarabia García,6720.0,Left Foot,Post,44.0,L
+3869220,FIFA World Cup,2022,5,121,True,2.0,Morocco,Hakim Ziyech,5237.0,Left Foot,Goal,40.0,C
+3869220,FIFA World Cup,2022,5,122,True,2.0,Spain,Carlos Soler Barragán,6583.0,Right Foot,Saved,42.7,L
+3869220,FIFA World Cup,2022,5,123,True,3.0,Morocco,Badr Banoun,67700.0,Right Foot,Saved,37.2,R
+3869220,FIFA World Cup,2022,5,124,True,3.0,Spain,Sergio Busquets i Burgos,5203.0,Right Foot,Saved,37.3,R
+3869220,FIFA World Cup,2022,5,125,True,4.0,Morocco,Achraf Hakimi Mouh,5245.0,Right Foot,Goal,40.1,C
+3869219,FIFA World Cup,2022,5,120,True,1.0,Japan,Takumi Minamino,8776.0,Right Foot,Saved,41.9,L
+3869219,FIFA World Cup,2022,5,120,True,1.0,Croatia,Nikola Vlašić,3441.0,Right Foot,Goal,36.8,R
+3869219,FIFA World Cup,2022,5,121,True,2.0,Japan,Kaoru Mitoma,37211.0,Right Foot,Saved,37.5,R
+3869219,FIFA World Cup,2022,5,121,True,2.0,Croatia,Marcelo Brozović,5469.0,Right Foot,Goal,39.9,C
+3869219,FIFA World Cup,2022,5,122,True,3.0,Japan,Takuma Asano,8949.0,Right Foot,Goal,41.9,L
+3869219,FIFA World Cup,2022,5,123,True,3.0,Croatia,Marko Livaja,22041.0,Right Foot,Post,36.1,R
+3869219,FIFA World Cup,2022,5,123,True,4.0,Japan,Maya Yoshida,3300.0,Right Foot,Saved,37.5,R
+3869219,FIFA World Cup,2022,5,124,True,4.0,Croatia,Mario Pašalić,11603.0,Right Foot,Goal,36.5,R
+3869253,FIFA World Cup,2022,1,12,False,,Brazil,Neymar da Silva Santos Junior,4320.0,Right Foot,Goal,42.3,L
+3869152,FIFA World Cup,2022,2,98,False,,Poland,Robert Lewandowski,5668.0,Right Foot,Goal,37.4,R
+3857270,FIFA World Cup,2022,2,92,False,,Portugal,Bruno Miguel Borges Fernandes,5204.0,Right Foot,Goal,38.2,R
+3857286,FIFA World Cup,2022,1,15,False,,Ecuador,Enner Remberto Valencia Lastra,28559.0,Right Foot,Goal,43.4,L
+3857300,FIFA World Cup,2022,1,9,False,,Argentina,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,38.7,C
+3857293,FIFA World Cup,2022,1,20,False,,Ghana,André Ayew Pelé,3347.0,Left Foot,Saved,42.3,L
+3857291,FIFA World Cup,2022,1,30,False,,Spain,Ferrán Torres García,6748.0,Right Foot,Goal,37.3,R
+7554,FIFA World Cup,2018,1,21,False,,England,Harry Kane,10955.0,Right Foot,Goal,36.6,R
+7554,FIFA World Cup,2018,1,45,False,,England,Harry Kane,10955.0,Right Foot,Goal,37.8,R
+7538,FIFA World Cup,2018,2,64,False,,Sweden,Andreas Granqvist,5607.0,Right Foot,Goal,43.0,L
+7585,FIFA World Cup,2018,2,56,False,,England,Harry Kane,10955.0,Right Foot,Goal,40.3,C
+7585,FIFA World Cup,2018,5,120,True,1.0,Colombia,Radamel Falcao García Zárate,3445.0,Right Foot,Goal,39.7,C
+7585,FIFA World Cup,2018,5,121,True,2.0,England,Harry Kane,10955.0,Right Foot,Goal,36.2,R
+7585,FIFA World Cup,2018,5,121,True,2.0,Colombia,Juan Guillermo Cuadrado Bello,5689.0,Right Foot,Goal,37.0,R
+7585,FIFA World Cup,2018,5,122,True,3.0,England,Marcus Rashford,3318.0,Right Foot,Goal,36.2,R
+7585,FIFA World Cup,2018,5,123,True,3.0,Colombia,Luis Fernando Muriel Fruto,6334.0,Right Foot,Goal,42.0,L
+7585,FIFA World Cup,2018,5,123,True,4.0,England,Jordan Brian Henderson,3532.0,Right Foot,Saved,43.8,L
+7585,FIFA World Cup,2018,5,124,True,4.0,Colombia,Andrés Mateus Uribe Villa,6193.0,Right Foot,Post,43.4,L
+7585,FIFA World Cup,2018,5,125,True,5.0,England,Kieran Trippier,3308.0,Right Foot,Goal,37.0,R
+7585,FIFA World Cup,2018,5,126,True,5.0,Colombia,Carlos Arturo Bacca Ahumada,5688.0,Right Foot,Saved,38.9,C
+7585,FIFA World Cup,2018,5,127,True,6.0,England,Eric Dier,10956.0,Right Foot,Goal,36.4,R
+7561,FIFA World Cup,2018,2,75,False,,Iceland,Gylfi Þór Sigurðsson,3944.0,Right Foot,Goal,40.7,C
+7540,FIFA World Cup,2018,2,72,False,,Egypt,Mohamed Salah,3531.0,Left Foot,Goal,43.4,L
+7531,FIFA World Cup,2018,2,63,False,,Argentina,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Saved,38.3,R
+7557,FIFA World Cup,2018,2,52,False,,Portugal,Cristiano Ronaldo dos Santos Aveiro,5207.0,Right Foot,Saved,42.4,L
+7557,FIFA World Cup,2018,2,92,False,,Iran,Karim Ansarifard,5231.0,Right Foot,Goal,42.6,L
+7553,FIFA World Cup,2018,1,25,False,,Mexico,Carlos Alberto Vela Garrido,5560.0,Left Foot,Goal,41.5,C
+7576,FIFA World Cup,2018,1,3,False,,Portugal,Cristiano Ronaldo dos Santos Aveiro,5207.0,Right Foot,Goal,43.8,L
+7537,FIFA World Cup,2018,1,34,False,,Tunisia,Ferjani Sassi,5650.0,Right Foot,Goal,36.4,R
+7580,FIFA World Cup,2018,1,12,False,,France,Antoine Griezmann,5487.0,Left Foot,Goal,38.3,R
+7581,FIFA World Cup,2018,4,115,False,,Croatia,Luka Modrić,5463.0,Right Foot,Saved,43.0,L
+7581,FIFA World Cup,2018,5,120,True,1.0,Denmark,Christian Dannemann Eriksen,3043.0,Right Foot,Saved,36.6,R
+7581,FIFA World Cup,2018,5,120,True,2.0,Croatia,Milan Badelj,6305.0,Right Foot,Saved,38.7,C
+7581,FIFA World Cup,2018,5,121,True,2.0,Denmark,Simon Thorup Kjær,5534.0,Right Foot,Goal,42.8,L
+7581,FIFA World Cup,2018,5,122,True,3.0,Croatia,Andrej Kramarić,5460.0,Right Foot,Goal,37.0,R
+7581,FIFA World Cup,2018,5,123,True,3.0,Denmark,Michael Krohn-Dehli,6356.0,Right Foot,Goal,37.0,R
+7581,FIFA World Cup,2018,5,124,True,4.0,Croatia,Luka Modrić,5463.0,Right Foot,Goal,40.3,C
+7581,FIFA World Cup,2018,5,125,True,4.0,Denmark,Lasse Schöne,5520.0,Right Foot,Saved,36.2,R
+7581,FIFA World Cup,2018,5,126,True,5.0,Croatia,Josip Pivarić,6308.0,Left Foot,Saved,36.6,R
+7581,FIFA World Cup,2018,5,127,True,5.0,Denmark,Nicolai Jørgensen,5522.0,Right Foot,Saved,41.5,C
+7581,FIFA World Cup,2018,5,128,True,6.0,Croatia,Ivan Rakitić,5470.0,Right Foot,Goal,37.2,R
+7549,FIFA World Cup,2018,2,82,False,,Iceland,Gylfi Þór Sigurðsson,3944.0,Right Foot,Off T,43.2,L
+7529,FIFA World Cup,2018,2,70,False,,Croatia,Luka Modrić,5463.0,Right Foot,Goal,36.2,R
+7568,FIFA World Cup,2018,2,92,False,,Costa Rica,Bryan Ruiz González,5592.0,Left Foot,Post,43.2,L
+7530,FIFA World Cup,2018,2,57,False,,France,Antoine Griezmann,5487.0,Left Foot,Goal,43.8,L
+7530,FIFA World Cup,2018,2,61,False,,Australia,Mile Jedinak,5489.0,Right Foot,Goal,42.0,L
+7547,FIFA World Cup,2018,1,37,False,,Australia,Mile Jedinak,5489.0,Right Foot,Goal,42.4,L
+8658,FIFA World Cup,2018,1,37,False,,France,Antoine Griezmann,5487.0,Left Foot,Goal,37.6,R
+7582,FIFA World Cup,2018,1,40,False,,Russia,Artem Dzyuba,5195.0,Right Foot,Goal,43.0,L
+7582,FIFA World Cup,2018,5,120,True,1.0,Spain,Andrés Iniesta Luján,5216.0,Right Foot,Goal,42.0,L
+7582,FIFA World Cup,2018,5,120,True,2.0,Russia,Fyodor Smolov,5194.0,Right Foot,Goal,37.4,R
+7582,FIFA World Cup,2018,5,121,True,2.0,Spain,Gerard Piqué Bernabéu,5213.0,Right Foot,Goal,36.2,R
+7582,FIFA World Cup,2018,5,122,True,3.0,Russia,Sergei Ignashevich,5174.0,Right Foot,Goal,43.4,L
+7582,FIFA World Cup,2018,5,122,True,3.0,Spain,Jorge Resurrección Merodio,5199.0,Right Foot,Saved,37.8,R
+7582,FIFA World Cup,2018,5,123,True,4.0,Russia,Aleksandr Golovin,5177.0,Right Foot,Goal,38.5,C
+7582,FIFA World Cup,2018,5,124,True,4.0,Spain,Sergio Ramos García,5201.0,Right Foot,Goal,37.8,R
+7582,FIFA World Cup,2018,5,124,True,5.0,Russia,Denis Cheryshev,5186.0,Left Foot,Goal,40.5,C
+7582,FIFA World Cup,2018,5,125,True,5.0,Spain,Iago Aspas Juncal,5217.0,Left Foot,Saved,39.1,C
+7552,FIFA World Cup,2018,1,6,False,,Belgium,Eden Hazard,3621.0,Right Foot,Goal,37.0,R
+7532,FIFA World Cup,2018,1,45,False,,Peru,Christian Alberto Cueva Bravo,5519.0,Right Foot,Off T,40.1,C
+7564,FIFA World Cup,2018,2,50,False,,Nigeria,Victor Moses,3963.0,Right Foot,Goal,42.2,L
+7566,FIFA World Cup,2018,2,61,False,,Sweden,Andreas Granqvist,5607.0,Right Foot,Goal,36.2,R
+8652,FIFA World Cup,2018,5,121,True,1.0,Russia,Fyodor Smolov,5194.0,Right Foot,Saved,38.1,R
+8652,FIFA World Cup,2018,5,121,True,1.0,Croatia,Marcelo Brozović,5469.0,Right Foot,Goal,43.6,L
+8652,FIFA World Cup,2018,5,122,True,2.0,Russia,Alan Dzagoev,5180.0,Right Foot,Goal,43.2,L
+8652,FIFA World Cup,2018,5,123,True,2.0,Croatia,Mateo Kovačić,5456.0,Right Foot,Saved,43.8,L
+8652,FIFA World Cup,2018,5,124,True,3.0,Russia,Mário Figueira Fernandes,5170.0,Right Foot,Off T,35.2,R
+8652,FIFA World Cup,2018,5,125,True,3.0,Croatia,Luka Modrić,5463.0,Right Foot,Goal,37.6,R
+8652,FIFA World Cup,2018,5,125,True,4.0,Russia,Sergei Ignashevich,5174.0,Right Foot,Goal,37.0,R
+8652,FIFA World Cup,2018,5,126,True,4.0,Croatia,Domagoj Vida,5468.0,Right Foot,Goal,36.6,R
+8652,FIFA World Cup,2018,5,127,True,5.0,Russia,Daler Kuzyaev,5179.0,Right Foot,Goal,36.2,R
+8652,FIFA World Cup,2018,5,127,True,5.0,Croatia,Ivan Rakitić,5470.0,Right Foot,Goal,36.6,R
+7559,FIFA World Cup,2018,1,40,False,,Saudi Arabia,Fahad Mosaed Al Muwallad Al Harbi,5190.0,Right Foot,Saved,37.6,R
+7559,FIFA World Cup,2018,1,50,False,,Saudi Arabia,Salman Mohammed Al Faraj,5178.0,Left Foot,Goal,37.4,R
+3895292,1. Bundesliga,2023/2024,1,52,False,,Bayer Leverkusen,Florian Wirtz,40724.0,Right Foot,Goal,37.5,R
+3895340,1. Bundesliga,2023/2024,1,46,False,,Bayer Leverkusen,Victor Okoh Boniface,32289.0,Right Foot,Goal,39.6,C
+3895302,1. Bundesliga,2023/2024,1,24,False,,Bayer Leverkusen,Victor Okoh Boniface,32289.0,Right Foot,Goal,42.9,L
+3895333,1. Bundesliga,2023/2024,2,57,False,,Bayer Leverkusen,Exequiel Alejandro Palacios,28268.0,Right Foot,Goal,43.5,L
+3895333,1. Bundesliga,2023/2024,2,88,False,,Bayer Leverkusen,Victor Okoh Boniface,32289.0,Right Foot,Goal,40.2,C
+3895074,1. Bundesliga,2023/2024,2,93,False,,Bayer Leverkusen,Exequiel Alejandro Palacios,28268.0,Right Foot,Goal,36.9,R
+3895086,1. Bundesliga,2023/2024,2,73,False,,Bayer Leverkusen,Victor Okoh Boniface,32289.0,Right Foot,Goal,40.7,C
+3895182,1. Bundesliga,2023/2024,1,29,False,,Bayer Leverkusen,Patrik Schick,7044.0,Left Foot,Goal,37.2,R
+3888787,FIFA U20 World Cup,1979,2,72,False,,Argentina U20,Hugo Alvez,397991.0,Right Foot,Goal,39.9,C
+267212,La Liga,2016/2017,2,54,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,43.0,L
+267101,La Liga,2016/2017,2,66,False,,Barcelona,Javier Alejandro Mascherano,5506.0,Right Foot,Goal,39.3,C
+266440,La Liga,2016/2017,1,44,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,40.0,C
+266033,La Liga,2016/2017,2,93,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,36.5,R
+267432,La Liga,2016/2017,2,69,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Saved,41.3,C
+267432,La Liga,2016/2017,2,74,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,43.7,L
+266952,La Liga,2016/2017,2,81,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,41.1,C
+267596,La Liga,2016/2017,2,89,False,,Barcelona,Lionel Andrés Messi Cuccittini,5503.0,Left Foot,Goal,36.8,R
+68334,La Liga,2006/2007,1,28,False,,Barcelona,Ronaldo de Assis Moreira,25879.0,Right Foot,Saved,38.7,C
+69162,La Liga,2006/2007,1,4,False,,Barcelona,Ronaldo de Assis Moreira,25879.0,Right Foot,Goal,37.5,R
+68335,La Liga,2006/2007,1,12,False,,Real Madrid,Ruud van Nistelrooy,19729.0,Right Foot,Goal,42.4,L
+68329,La Liga,2006/2007,1,27,False,,Barcelona,Ronaldo de Assis Moreira,25879.0,Right Foot,Goal,43.6,L
+69154,La Liga,2006/2007,1,25,False,,Racing Santander,Ezequiel Marcelo Garay,6891.0,Right Foot,Saved,37.0,R
+69159,La Liga,2006/2007,1,30,False,,Mallorca,Jonás Manuel Gutiérrez,25997.0,Right Foot,Saved,38.1,R
+68340,La Liga,2006/2007,2,91,False,,Barcelona,Ronaldo de Assis Moreira,25879.0,Right Foot,Goal,43.6,L
+69174,La Liga,2006/2007,1,39,False,,Barcelona,Ronaldo de Assis Moreira,25879.0,Right Foot,Goal,43.5,L
+69174,La Liga,2006/2007,2,72,False,,RC Deportivo La Coruña,Fabián Larry Estoyanoff Poggio,25947.0,Right Foot,Saved,43.1,L
+3749493,Premier League,2003/2004,1,34,False,,Arsenal,Thierry Henry,15516.0,Right Foot,Goal,38.1,R
+3749296,Premier League,2003/2004,1,38,False,,Arsenal,Thierry Henry,15516.0,Right Foot,Goal,41.8,L
+3749257,Premier League,2003/2004,2,46,False,,Arsenal,Thierry Henry,15516.0,Right Foot,Goal,37.4,R
+3749133,Premier League,2003/2004,2,52,False,,Arsenal,Thierry Henry,15516.0,Right Foot,Goal,43.1,L
+3749528,Premier League,2003/2004,2,79,False,,Arsenal,Thierry Henry,15516.0,Right Foot,Goal,39.6,C
+3749552,Premier League,2003/2004,2,93,False,,Manchester United,Ruud van Nistelrooy,19729.0,Right Foot,Post,37.5,R
+3749068,Premier League,2003/2004,2,93,False,,Tottenham Hotspur,Robbie Keane,11348.0,Right Foot,Goal,43.1,L
+3749453,Premier League,2003/2004,1,32,False,,Arsenal,Thierry Henry,15516.0,Right Foot,Goal,40.9,C
+3749153,Premier League,2003/2004,1,37,False,,Arsenal,Thierry Henry,15516.0,Right Foot,Goal,42.6,L
+3749153,Premier League,2003/2004,2,85,False,,Middlesbrough,Massimo Maccarone,40252.0,Right Foot,Goal,37.3,R
+3749526,Premier League,2003/2004,1,26,False,,Charlton Athletic,Paolo Di Canio,40375.0,Right Foot,Goal,39.2,C
+3879551,Serie A,2015/2016,2,62,False,,Lazio,Lucas Rodrigo Biglia,5510.0,Right Foot,Goal,40.7,C
+3879575,Serie A,2015/2016,1,40,False,,Hellas Verona,Giampaolo Pazzini,6686.0,Right Foot,Goal,37.8,R
+3879863,Serie A,2015/2016,1,18,False,,Atalanta,Gianpaolo Bellini,386607.0,Right Foot,Goal,37.1,R
+3879825,Serie A,2015/2016,1,5,False,,Lazio,Antonio Candreva,7776.0,Right Foot,Goal,43.3,L
+3879628,Serie A,2015/2016,1,37,False,,AC Milan,M''Baye Babacar Niang,5661.0,Right Foot,Goal,39.1,C
+3879628,Serie A,2015/2016,2,86,False,,Sampdoria,Eder Citadin Martins,7000.0,Right Foot,Goal,42.8,L
+3879699,Serie A,2015/2016,1,17,False,,Napoli,Lorenzo Insigne,7037.0,Right Foot,Goal,37.0,R
+3879703,Serie A,2015/2016,2,65,False,,Lazio,Antonio Candreva,7776.0,Right Foot,Goal,37.1,R
+3879703,Serie A,2015/2016,2,83,False,,Chievo,Alberto Paloschi,6950.0,Right Foot,Saved,36.5,R
+3879653,Serie A,2015/2016,1,2,False,,Fiorentina,Josip Iličić,7139.0,Left Foot,Goal,43.3,L
+3879632,Serie A,2015/2016,2,81,False,,Atalanta,Germán Gustavo Denis,49439.0,Right Foot,Goal,41.7,L
+3879566,Serie A,2015/2016,2,75,False,,Genoa,Diego Perotti,7456.0,Right Foot,Goal,42.8,L
+3879585,Serie A,2015/2016,1,30,False,,AC Milan,Carlos Arturo Bacca Ahumada,5688.0,Right Foot,Goal,37.0,R
+3879838,Serie A,2015/2016,1,43,False,,Lazio,Antonio Candreva,7776.0,Right Foot,Saved,38.2,R
+3879839,Serie A,2015/2016,2,89,False,,Fiorentina,Nikola Kalinić,7033.0,Right Foot,Saved,42.9,L
+3879833,Serie A,2015/2016,2,51,False,,Juventus,Paulo Bruno Exequiel Dybala,5743.0,Left Foot,Goal,36.8,R
+3879828,Serie A,2015/2016,1,34,False,,Torino,Andrea Belotti,7471.0,Right Foot,Goal,43.2,L
+3879828,Serie A,2015/2016,2,88,False,,AS Roma,Francesco Totti,15780.0,Right Foot,Goal,36.7,R
+3879832,Serie A,2015/2016,1,1,False,,Palermo,Franco Damián Vázquez,6719.0,Left Foot,Goal,43.4,L
+3879832,Serie A,2015/2016,1,10,False,,Atalanta,Marco Borriello,8871.0,Left Foot,Goal,37.3,R
+3879792,Serie A,2015/2016,1,29,False,,Chievo,Valter Birsa,7045.0,Left Foot,Saved,38.2,R
+3879794,Serie A,2015/2016,2,76,False,,Atalanta,Mauricio Ricardo Pinilla Ferreira,36770.0,Right Foot,Saved,37.0,R
+3879786,Serie A,2015/2016,1,22,False,,Napoli,Gonzalo Gerardo Higuaín,5497.0,Right Foot,Goal,43.0,L
+3879784,Serie A,2015/2016,1,19,False,,Genoa,Alessio Cerci,7702.0,Left Foot,Goal,40.2,C
+3879784,Serie A,2015/2016,1,46,False,,Genoa,Alessio Cerci,7702.0,Left Foot,Goal,43.3,L
+3879782,Serie A,2015/2016,2,89,False,,Carpi,Jonathan de Guzmán,8675.0,Right Foot,Goal,43.3,L
+3879772,Serie A,2015/2016,1,21,False,,Torino,Ciro Immobile,7788.0,Right Foot,Off T,43.5,L
+3879772,Serie A,2015/2016,2,77,False,,Lazio,Lucas Rodrigo Biglia,5510.0,Right Foot,Goal,36.7,R
+3879754,Serie A,2015/2016,2,76,False,,Torino,Maximiliano Gastón López,8193.0,Right Foot,Saved,43.4,L
+3879748,Serie A,2015/2016,1,28,False,,Hellas Verona,Luca Toni,20252.0,Right Foot,Saved,37.4,R
+3879748,Serie A,2015/2016,2,70,False,,Chievo,Sergio Pellissier,8644.0,Right Foot,Goal,43.4,L
+3879745,Serie A,2015/2016,1,18,False,,Torino,Ciro Immobile,7788.0,Right Foot,Goal,36.7,R
+3879741,Serie A,2015/2016,1,28,False,,Chievo,Valter Birsa,7045.0,Left Foot,Goal,37.9,R
+3879740,Serie A,2015/2016,2,72,False,,Frosinone,Daniel Ciofani,13613.0,Right Foot,Goal,38.0,R
+3879737,Serie A,2015/2016,2,89,False,,Lazio,Antonio Candreva,7776.0,Right Foot,Goal,36.5,R
+3879732,Serie A,2015/2016,2,71,False,,Chievo,Valter Birsa,7045.0,Left Foot,Goal,37.7,R
+3878559,Serie A,2015/2016,1,8,False,,Atalanta,Mauricio Ricardo Pinilla Ferreira,36770.0,Right Foot,Saved,37.6,R
+3879624,Serie A,2015/2016,2,69,False,,Lazio,Antonio Candreva,7776.0,Right Foot,Goal,36.9,R
+3879874,Serie A,2015/2016,2,73,False,,Lazio,Miroslav Klose,19286.0,Right Foot,Goal,43.4,L
+3879871,Serie A,2015/2016,1,35,False,,Carpi,Simone Verdi,7170.0,Right Foot,Goal,43.3,L
+3879871,Serie A,2015/2016,2,78,False,,Udinese,Antonio Di Natale,19846.0,Right Foot,Goal,36.9,R
+3879870,Serie A,2015/2016,1,14,False,,Juventus,Paulo Bruno Exequiel Dybala,5743.0,Left Foot,Goal,36.3,R
+3879864,Serie A,2015/2016,1,42,False,,Hellas Verona,Luca Toni,20252.0,Right Foot,Goal,38.5,C
+3879864,Serie A,2015/2016,2,93,False,,Juventus,Paulo Bruno Exequiel Dybala,5743.0,Left Foot,Goal,37.4,R
+3879859,Serie A,2015/2016,1,11,False,,Carpi,Jerry Uche Mbakogu,32608.0,Right Foot,Saved,43.6,L
+3879859,Serie A,2015/2016,1,40,False,,Carpi,Jerry Uche Mbakogu,32608.0,Right Foot,Saved,42.9,L
+3879858,Serie A,2015/2016,1,39,False,,AC Milan,Carlos Arturo Bacca Ahumada,5688.0,Right Foot,Goal,36.9,R
+3879853,Serie A,2015/2016,2,83,False,,Lazio,Antonio Candreva,7776.0,Right Foot,Goal,37.2,R
+3879851,Serie A,2015/2016,2,47,False,,AC Milan,Mario Barwuah Balotelli,3371.0,Right Foot,Saved,37.6,R
+3879851,Serie A,2015/2016,2,91,False,,AC Milan,Jérémy Ménez,20300.0,Right Foot,Goal,36.3,R
+3879846,Serie A,2015/2016,2,71,False,,Hellas Verona,Giampaolo Pazzini,6686.0,Right Foot,Goal,43.8,L
+3879835,Serie A,2015/2016,2,46,False,,Chievo,Sergio Pellissier,8644.0,Right Foot,Goal,37.8,R
+3879831,Serie A,2015/2016,2,88,False,,Sassuolo,Domenico Berardi,7131.0,Left Foot,Saved,43.6,L
+3879827,Serie A,2015/2016,1,34,False,,Napoli,Manolo Gabbiadini,3949.0,Left Foot,Goal,36.7,R
+3879818,Serie A,2015/2016,2,92,False,,Torino,Andrea Belotti,7471.0,Right Foot,Goal,36.5,R
+3879811,Serie A,2015/2016,1,46,False,,Napoli,Lorenzo Insigne,7037.0,Right Foot,Goal,36.3,R
+3879805,Serie A,2015/2016,1,4,False,,AC Milan,Luiz Adriano de Souza da Silva,21272.0,Right Foot,Goal,43.6,L
+3879803,Serie A,2015/2016,1,13,False,,Udinese,Bruno Miguel Borges Fernandes,5204.0,Right Foot,Goal,42.6,L
+3879803,Serie A,2015/2016,1,25,False,,Udinese,Bruno Miguel Borges Fernandes,5204.0,Right Foot,Saved,38.0,R
+3879801,Serie A,2015/2016,1,16,False,,Inter Milan,Mauro Emanuel Icardi Rivero,6987.0,Right Foot,Goal,43.1,L
+3879801,Serie A,2015/2016,2,72,False,,Torino,Andrea Belotti,7471.0,Right Foot,Goal,37.0,R
+3879790,Serie A,2015/2016,2,47,False,,Torino,Andrea Belotti,7471.0,Right Foot,Goal,37.6,R
+3879767,Serie A,2015/2016,1,47,False,,Fiorentina,Josip Iličić,7139.0,Left Foot,Goal,43.5,L
+3879766,Serie A,2015/2016,1,40,False,,Sassuolo,Domenico Berardi,7131.0,Left Foot,Goal,41.4,C
+3879761,Serie A,2015/2016,2,74,False,,Carpi,Simone Verdi,7170.0,Right Foot,Goal,43.3,L
+3879759,Serie A,2015/2016,2,83,False,,Juventus,Álvaro Borja Morata Martín,3477.0,Right Foot,Goal,43.4,L
+3879753,Serie A,2015/2016,2,69,False,,Empoli,Massimo Maccarone,40252.0,Right Foot,Goal,43.2,L
+3879752,Serie A,2015/2016,2,56,False,,Genoa,Alessio Cerci,7702.0,Left Foot,Goal,36.4,R
+3879752,Serie A,2015/2016,2,89,False,,Udinese,Antonio Di Natale,19846.0,Right Foot,Saved,42.1,L
+3879731,Serie A,2015/2016,2,68,False,,Napoli,Gonzalo Gerardo Higuaín,5497.0,Right Foot,Goal,37.3,R
+3879725,Serie A,2015/2016,2,76,False,,Frosinone,Federico Dionisi,24235.0,Right Foot,Goal,43.7,L
+3879721,Serie A,2015/2016,1,32,False,,AC Milan,M''Baye Babacar Niang,5661.0,Right Foot,Goal,43.6,L
+3879718,Serie A,2015/2016,2,66,False,,Empoli,Riccardo Saponara,7150.0,Right Foot,Saved,39.2,C
+3879717,Serie A,2015/2016,2,87,False,,Sassuolo,Domenico Berardi,7131.0,Left Foot,Post,40.9,C
+3879712,Serie A,2015/2016,2,69,False,,Inter Milan,Mauro Emanuel Icardi Rivero,6987.0,Right Foot,Post,44.2,L
+3879710,Serie A,2015/2016,2,86,False,,Bologna,Mattia Destro,8103.0,Right Foot,Goal,37.4,R
+3879709,Serie A,2015/2016,2,73,False,,Carpi,Matteo Mancosu,15415.0,Right Foot,Goal,37.8,R
+3879708,Serie A,2015/2016,1,31,False,,Atalanta,Germán Gustavo Denis,49439.0,Right Foot,Saved,42.0,L
+3879694,Serie A,2015/2016,2,70,False,,Lazio,Antonio Candreva,7776.0,Right Foot,Goal,37.6,R
+3879693,Serie A,2015/2016,1,25,False,,Juventus,Paulo Bruno Exequiel Dybala,5743.0,Right Foot,Goal,37.0,R
+3879691,Serie A,2015/2016,2,60,False,,Hellas Verona,Giampaolo Pazzini,6686.0,Right Foot,Goal,43.0,L
+3879689,Serie A,2015/2016,2,54,False,,Carpi,Jerry Uche Mbakogu,32608.0,Right Foot,Goal,37.1,R
+3879687,Serie A,2015/2016,1,8,False,,Torino,Ciro Immobile,7788.0,Right Foot,Goal,37.0,R
+3879686,Serie A,2015/2016,1,2,False,,Sassuolo,Diego Falcinelli,8093.0,Left Foot,Goal,37.7,R
+3879681,Serie A,2015/2016,2,94,False,,Sassuolo,Domenico Berardi,7131.0,Left Foot,Goal,43.5,L
+3879680,Serie A,2015/2016,1,36,False,,Bologna,Mattia Destro,8103.0,Right Foot,Saved,40.7,C
+3879679,Serie A,2015/2016,1,29,False,,Napoli,Gonzalo Gerardo Higuaín,5497.0,Right Foot,Goal,38.8,C
+3879669,Serie A,2015/2016,1,32,False,,Torino,Fabio Quagliarella,7011.0,Right Foot,Goal,36.6,R
+3879661,Serie A,2015/2016,2,51,False,,Napoli,Marek Hamšík,7025.0,Right Foot,Goal,43.1,L
+3879661,Serie A,2015/2016,2,90,False,,Napoli,Marek Hamšík,7025.0,Right Foot,Off T,37.0,R
+3879659,Serie A,2015/2016,2,86,False,,Lazio,Antonio Candreva,7776.0,Right Foot,Saved,37.5,R
+3879654,Serie A,2015/2016,2,67,False,,Chievo,Alberto Paloschi,6950.0,Right Foot,Saved,42.4,L
+3879652,Serie A,2015/2016,2,56,False,,Hellas Verona,Luca Toni,20252.0,Right Foot,Goal,39.3,C
+3879646,Serie A,2015/2016,2,61,False,,Fiorentina,Josip Iličić,7139.0,Left Foot,Goal,36.4,R
+3879640,Serie A,2015/2016,2,88,False,,Chievo,Alberto Paloschi,6950.0,Right Foot,Goal,37.0,R
+3879639,Serie A,2015/2016,2,93,False,,Torino,Maximiliano Gastón López,8193.0,Right Foot,Goal,36.6,R
+3879629,Serie A,2015/2016,1,21,False,,Frosinone,Daniel Ciofani,13613.0,Right Foot,Goal,36.6,R
+3879617,Serie A,2015/2016,2,51,False,,AS Roma,Miralem Pjanić,6947.0,Right Foot,Goal,37.3,R
+3879617,Serie A,2015/2016,2,71,False,,AS Roma,Edin Džeko,6973.0,Right Foot,Goal,37.0,R
+3879617,Serie A,2015/2016,2,86,False,,Bologna,Mattia Destro,8103.0,Right Foot,Goal,43.1,L
+3879616,Serie A,2015/2016,1,9,False,,Fiorentina,Josip Iličić,7139.0,Left Foot,Goal,43.2,L
+3879610,Serie A,2015/2016,1,9,False,,AS Roma,Edin Džeko,6973.0,Right Foot,Goal,39.3,C
+3879602,Serie A,2015/2016,1,30,False,,Fiorentina,Khouma El Hadji Babacar,7125.0,Right Foot,Goal,41.5,C
+3879580,Serie A,2015/2016,2,78,False,,Juventus,Paul Pogba,20004.0,Right Foot,Saved,37.8,R
+3879573,Serie A,2015/2016,1,6,False,,Sassuolo,Domenico Berardi,7131.0,Left Foot,Goal,43.4,L
+3879571,Serie A,2015/2016,2,62,False,,Atalanta,Luca Cigarini,8420.0,Right Foot,Goal,36.9,R
+3879561,Serie A,2015/2016,1,5,False,,Fiorentina,Josip Iličić,7139.0,Left Foot,Goal,36.7,R
+3879559,Serie A,2015/2016,2,51,False,,Juventus,Paulo Bruno Exequiel Dybala,5743.0,Left Foot,Goal,37.1,R
+3879558,Serie A,2015/2016,2,74,False,,Torino,Maximiliano Gastón López,8193.0,Right Foot,Goal,43.1,L
+3879550,Serie A,2015/2016,1,3,False,,Fiorentina,Josip Iličić,7139.0,Left Foot,Goal,43.0,L
+3879547,Serie A,2015/2016,2,76,False,,Carpi,Ryder Matos Santos,7696.0,Right Foot,Saved,42.2,L
+3878609,Serie A,2015/2016,2,59,False,,Juventus,Paul Pogba,20004.0,Right Foot,Goal,37.7,R
+3878599,Serie A,2015/2016,1,6,False,,Sassuolo,Nicola Sansone,6859.0,Right Foot,Saved,42.7,L
+3878599,Serie A,2015/2016,2,85,False,,Atalanta,Maximiliano Nicol Moralez,12759.0,Right Foot,Saved,42.4,L
+3878596,Serie A,2015/2016,2,48,False,,Hellas Verona,Luca Toni,20252.0,Right Foot,Goal,38.5,C
+3878594,Serie A,2015/2016,2,82,False,,Juventus,Paulo Bruno Exequiel Dybala,5743.0,Left Foot,Goal,42.9,L
+3878558,Serie A,2015/2016,2,56,False,,Sampdoria,Eder Citadin Martins,7000.0,Right Foot,Goal,36.5,R
+3878552,Serie A,2015/2016,2,88,False,,Inter Milan,Stevan Jovetić,3434.0,Right Foot,Goal,43.1,L
+3878545,Serie A,2015/2016,1,13,False,,Sampdoria,Eder Citadin Martins,7000.0,Right Foot,Goal,41.2,C
+3878545,Serie A,2015/2016,2,92,False,,Carpi,Andrea Lazzari,387475.0,Left Foot,Saved,37.9,R
+3878542,Serie A,2015/2016,2,55,False,,Fiorentina,Josip Iličić,7139.0,Left Foot,Goal,43.7,L
+7541,FIFA World Cup,2018,1,5,False,,Japan,Shinji Kagawa,5684.0,Right Foot,Goal,41.5,C

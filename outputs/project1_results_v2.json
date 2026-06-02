@@ -1,0 +1,356 @@
+{
+  "primary_hw1.5": {
+    "half_width": 1.5,
+    "n": 1032,
+    "kickers": 534,
+    "dir_dist": {
+      "R": 0.457,
+      "L": 0.403,
+      "C": 0.14
+    },
+    "rel_dist": {
+      "natural": 0.503,
+      "nonnatural": 0.358,
+      "center": 0.14
+    },
+    "full_test": {
+      "footedness_marginal": {
+        "logloss": 0.9879,
+        "brier": 0.5995,
+        "acc": 0.5039,
+        "top2": 0.8605,
+        "ece": 0.0013
+      },
+      "per_player_freq": {
+        "logloss": 1.0957,
+        "brier": 0.6665,
+        "acc": 0.4341,
+        "top2": 0.814,
+        "ece": 0.1229
+      },
+      "logit_noRE": {
+        "logloss": 0.9861,
+        "brier": 0.5977,
+        "acc": 0.5039,
+        "top2": 0.8605,
+        "ece": 0.0051
+      },
+      "hierarchical": {
+        "logloss": 0.9998,
+        "brier": 0.6068,
+        "acc": 0.4845,
+        "top2": 0.8605,
+        "ece": 0.0234
+      }
+    },
+    "low_n": {
+      "n_kicks": 207,
+      "per_player": 1.1133,
+      "hierarchical": 1.0133
+    },
+    "high_n": {
+      "n_kicks": 51,
+      "per_player": 1.0241,
+      "hierarchical": 0.9451
+    },
+    "mcnemar": {
+      "vs_footedness": {
+        "hier_only_right": 7,
+        "base_only_right": 12,
+        "p_exact": 0.3593
+      },
+      "vs_per_player": {
+        "hier_only_right": 25,
+        "base_only_right": 12,
+        "p_exact": 0.047
+      },
+      "vs_logit_noRE": {
+        "hier_only_right": 7,
+        "base_only_right": 12,
+        "p_exact": 0.3593
+      }
+    },
+    "sigma_shooter_RE": [
+      0.392,
+      0.48
+    ],
+    "sigma_hdi94": [
+      [
+        0.0,
+        0.861
+      ],
+      [
+        0.001,
+        0.872
+      ]
+    ],
+    "b_shootout": [
+      -0.032,
+      -0.378
+    ],
+    "b_shootout_hdi94": [
+      [
+        -0.482,
+        0.407
+      ],
+      [
+        -0.755,
+        -0.028
+      ]
+    ],
+    "max_rhat": 1.0054,
+    "min_ess_bulk": 725.4
+  },
+  "sensitivity": {
+    "hw1.0": {
+      "half_width": 1.0,
+      "n": 1032,
+      "kickers": 534,
+      "dir_dist": {
+        "R": 0.488,
+        "L": 0.417,
+        "C": 0.095
+      },
+      "rel_dist": {
+        "natural": 0.533,
+        "nonnatural": 0.372,
+        "center": 0.095
+      },
+      "full_test": {
+        "footedness_marginal": {
+          "logloss": 0.9235,
+          "brier": 0.5668,
+          "acc": 0.5349,
+          "top2": 0.907,
+          "ece": 0.0026
+        },
+        "per_player_freq": {
+          "logloss": 0.9842,
+          "brier": 0.6014,
+          "acc": 0.5039,
+          "top2": 0.8915,
+          "ece": 0.0816
+        },
+        "logit_noRE": {
+          "logloss": 0.9239,
+          "brier": 0.5655,
+          "acc": 0.5349,
+          "top2": 0.907,
+          "ece": 0.0047
+        },
+        "hierarchical": {
+          "logloss": 0.9245,
+          "brier": 0.566,
+          "acc": 0.531,
+          "top2": 0.907,
+          "ece": 0.0083
+        }
+      },
+      "low_n": {
+        "n_kicks": 204,
+        "per_player": 0.9941,
+        "hierarchical": 0.9347
+      },
+      "high_n": {
+        "n_kicks": 54,
+        "per_player": 0.9469,
+        "hierarchical": 0.8857
+      },
+      "mcnemar": {
+        "vs_footedness": {
+          "hier_only_right": 2,
+          "base_only_right": 3,
+          "p_exact": 1.0
+        },
+        "vs_per_player": {
+          "hier_only_right": 17,
+          "base_only_right": 10,
+          "p_exact": 0.2478
+        },
+        "vs_logit_noRE": {
+          "hier_only_right": 2,
+          "base_only_right": 3,
+          "p_exact": 1.0
+        }
+      },
+      "sigma_shooter_RE": [
+        0.568,
+        0.292
+      ],
+      "sigma_hdi94": [
+        [
+          0.007,
+          1.092
+        ],
+        [
+          0.001,
+          0.619
+        ]
+      ],
+      "b_shootout": [
+        -0.065,
+        -0.359
+      ],
+      "b_shootout_hdi94": [
+        [
+          -0.575,
+          0.476
+        ],
+        [
+          -0.693,
+          -0.011
+        ]
+      ],
+      "max_rhat": 1.0083,
+      "min_ess_bulk": 653.2
+    },
+    "hw2.0": {
+      "half_width": 2.0,
+      "n": 1032,
+      "kickers": 534,
+      "dir_dist": {
+        "R": 0.404,
+        "L": 0.361,
+        "C": 0.234
+      },
+      "rel_dist": {
+        "natural": 0.446,
+        "nonnatural": 0.32,
+        "center": 0.234
+      },
+      "full_test": {
+        "footedness_marginal": {
+          "logloss": 1.064,
+          "brier": 0.6435,
+          "acc": 0.4475,
+          "top2": 0.7665,
+          "ece": 0.0023
+        },
+        "per_player_freq": {
+          "logloss": 1.1342,
+          "brier": 0.6895,
+          "acc": 0.4241,
+          "top2": 0.7665,
+          "ece": 0.1167
+        },
+        "logit_noRE": {
+          "logloss": 1.0621,
+          "brier": 0.6422,
+          "acc": 0.4475,
+          "top2": 0.7665,
+          "ece": 0.017
+        },
+        "hierarchical": {
+          "logloss": 1.0635,
+          "brier": 0.6434,
+          "acc": 0.4475,
+          "top2": 0.7665,
+          "ece": 0.0073
+        }
+      },
+      "low_n": {
+        "n_kicks": 197,
+        "per_player": 1.1552,
+        "hierarchical": 1.0731
+      },
+      "high_n": {
+        "n_kicks": 60,
+        "per_player": 1.0651,
+        "hierarchical": 1.0321
+      },
+      "mcnemar": {
+        "vs_footedness": {
+          "hier_only_right": 0,
+          "base_only_right": 0,
+          "p_exact": 1.0
+        },
+        "vs_per_player": {
+          "hier_only_right": 32,
+          "base_only_right": 26,
+          "p_exact": 0.5118
+        },
+        "vs_logit_noRE": {
+          "hier_only_right": 0,
+          "base_only_right": 0,
+          "p_exact": 1.0
+        }
+      },
+      "sigma_shooter_RE": [
+        0.47,
+        0.257
+      ],
+      "sigma_hdi94": [
+        [
+          0.004,
+          0.926
+        ],
+        [
+          0.0,
+          0.613
+        ]
+      ],
+      "b_shootout": [
+        -0.241,
+        -0.421
+      ],
+      "b_shootout_hdi94": [
+        [
+          -0.635,
+          0.144
+        ],
+        [
+          -0.8,
+          -0.068
+        ]
+      ],
+      "max_rhat": 1.014,
+      "min_ess_bulk": 394.0
+    }
+  },
+  "temporal_cv": {
+    "folds": [
+      {
+        "fold": 1,
+        "n_train": 516,
+        "n_test": 103,
+        "footedness": 0.9205,
+        "per_player": 0.925,
+        "hierarchical": 0.9266,
+        "hier_acc": 0.5728
+      },
+      {
+        "fold": 2,
+        "n_train": 619,
+        "n_test": 103,
+        "footedness": 1.0175,
+        "per_player": 1.03,
+        "hierarchical": 1.0145,
+        "hier_acc": 0.5437
+      },
+      {
+        "fold": 3,
+        "n_train": 722,
+        "n_test": 103,
+        "footedness": 1.0013,
+        "per_player": 0.9792,
+        "hierarchical": 0.9888,
+        "hier_acc": 0.4175
+      },
+      {
+        "fold": 4,
+        "n_train": 825,
+        "n_test": 103,
+        "footedness": 1.0209,
+        "per_player": 1.073,
+        "hierarchical": 1.0275,
+        "hier_acc": 0.5049
+      }
+    ],
+    "mean": {
+      "footedness": 0.9901,
+      "per_player": 1.0018,
+      "hierarchical": 0.9893,
+      "hier_acc": 0.5097
+    }
+  }
+}

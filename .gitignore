@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Local agent / editor settings
+.claude/
+.vscode/
+.idea/
+
+# Regenerable StatsBomb pull cache (rebuild with scripts/pull_statsbomb.py)
+data/cache/
+
+# Run logs and large posterior dumps (regenerable)
+outputs/*.log
+*.nc
+tmp/
+
+# OS cruft
+.DS_Store
+Thumbs.db

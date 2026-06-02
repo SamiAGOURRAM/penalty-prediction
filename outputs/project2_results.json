@@ -1,0 +1,91 @@
+{
+  "H5_action_bias": {
+    "dive_dist": {
+      "L": 0.478,
+      "R": 0.406,
+      "C": 0.116
+    },
+    "side_commit_rate": 0.884,
+    "stay_center_rate": 0.116,
+    "save_rate_when_side_matches": {
+      "rate": 0.441,
+      "n": 136
+    },
+    "goal_rate_when_keeper_center": {
+      "rate": 0.848,
+      "n": 33
+    },
+    "kick_center_share": 0.2
+  },
+  "H7_entropy": {
+    "kicker_placement_bits": 1.502,
+    "keeper_dive_bits": 1.397,
+    "max_bits": 1.585,
+    "gap_bits": 0.105
+  },
+  "n_keeper_innings": 70,
+  "n_shootouts": 35,
+  "H6_gamblers_fallacy": {
+    "streak_1": {
+      "n_cases": 176,
+      "dove_opposite": 90,
+      "opposite_rate": 0.511,
+      "binomial_p_greater": 0.4106,
+      "permutation_p": 0.4054,
+      "bootstrap_rate_ci95": [
+        0.438,
+        0.585
+      ],
+      "power_at_true_0.65": 0.99,
+      "power_at_true_0.70": 1.0
+    },
+    "streak_2": {
+      "n_cases": 54,
+      "dove_opposite": 32,
+      "opposite_rate": 0.593,
+      "binomial_p_greater": 0.1102,
+      "permutation_p": 0.1099,
+      "bootstrap_rate_ci95": [
+        0.463,
+        0.722
+      ],
+      "power_at_true_0.65": 0.68,
+      "power_at_true_0.70": 0.897
+    },
+    "streak_3": {
+      "n_cases": 10,
+      "dove_opposite": 5,
+      "opposite_rate": 0.5,
+      "binomial_p_greater": 0.623,
+      "permutation_p": 0.6224,
+      "bootstrap_rate_ci95": [
+        0.2,
+        0.8
+      ],
+      "power_at_true_0.65": 0.086,
+      "power_at_true_0.70": 0.149
+    }
+  },
+  "lag1_dive_given_prevkick": {
+    "C": {
+      "C": 0.082,
+      "L": 0.101,
+      "R": 0.159
+    },
+    "L": {
+      "C": 0.592,
+      "L": 0.462,
+      "R": 0.463
+    },
+    "R": {
+      "C": 0.327,
+      "L": 0.437,
+      "R": 0.378
+    }
+  },
+  "lag1_chi2": {
+    "chi2": 4.529,
+    "p": 0.3391,
+    "dof": 4
+  }
+}

@@ -1,0 +1,10 @@
+statsbombpy>=1.11
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+pymc>=5.10
+arviz>=0.17
+nutpie>=0.13
+numba>=0.59
+matplotlib>=3.7
+scikit-learn>=1.3
